@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers d’environnement secrets
+.env
+
+# Dossiers de sortie / images extraites
+output/
+data/raw/
+
+# Jupyter / notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
