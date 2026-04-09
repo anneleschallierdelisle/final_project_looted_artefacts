@@ -11,8 +11,9 @@ __pycache__/
 .env
 
 # Dossiers de sortie / images extraites
-output/
+
 data/raw/
+/figures/pdf_images
 
 # Jupyter / notebooks checkpoints
 .ipynb_checkpoints/
