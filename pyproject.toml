@@ -5,17 +5,27 @@ description = "Final project of the DA bootcamp"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "fitz>=0.0.1.dev2",
+    "frontend>=0.0.3",
     "ipykernel>=7.2.0",
     "joblib>=1.5.3",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
     "numpy>=2.4.4",
     "pandas>=3.0.1",
+    "pdfplumber>=0.11.9",
     "picle>=0.12.1",
+    "pymupdf>=1.27.2.2",
+    "pymupdf-layout>=1.27.2.2",
+    "pypdf>=6.9.2",
     "pyyaml>=6.0.3",
     "requests>=2.33.1",
+    "sacremoses>=0.1.1",
     "scikit-learn>=1.8.0",
     "scipy>=1.17.1",
     "seaborn>=0.13.2",
+    "sentencepiece>=0.2.1",
     "statsmodels>=0.14.6",
+    "torch>=2.11.0",
+    "transformers>=5.5.0",
 ]
