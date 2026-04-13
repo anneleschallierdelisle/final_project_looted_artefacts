@@ -16,13 +16,13 @@ from playwright.sync_api import sync_playwright
 # =========================
 # CONFIG
 # =========================
-INPUT_PATH = "data/clean/weblink_text.csv"
+INPUT_PATH = "../data/raw/weblink_text_raw.csv"
 INPUT_SEP = ";"
 
-OUTPUT_DIR = "figures/web_photos"
+OUTPUT_DIR = "../figures/web_photos"
 
 
-OUTPUT_CSV = "data/clean/web_photos_manifest.csv"
+OUTPUT_CSV = "../data/clean/web_photos_manifest_raw.csv"
 
 MAX_IMAGES_PER_PAGE = 3
 REQUEST_TIMEOUT = 20
