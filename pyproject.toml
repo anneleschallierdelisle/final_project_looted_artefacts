@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "accelerate>=1.13.0",
     "bs4>=0.0.2",
+    "chromadb>=1.5.7",
     "chromium>=0.0.0",
     "dotenv>=0.9.9",
     "frontend>=0.0.3",
