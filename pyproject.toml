@@ -10,6 +10,7 @@ dependencies = [
     "chromadb>=1.5.7",
     "chromium>=0.0.0",
     "dotenv>=0.9.9",
+    "fix-text>=0.1.0",
     "frontend>=0.0.3",
     "huggingface-hub>=1.9.2",
     "ipykernel>=7.2.0",

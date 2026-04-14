@@ -1,4 +1,4 @@
-USE yemen_looted_artefacts;
+USE new_yemen_looted_artefacts;
 SET SESSION sql_mode = '';
 CREATE TABLE IF NOT EXISTS `looted_artefacts` (
 	`artifact_id` VARCHAR(255) NOT NULL,

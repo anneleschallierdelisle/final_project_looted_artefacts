@@ -776,6 +776,7 @@ dependencies = [
     { name = "chromadb" },
     { name = "chromium" },
     { name = "dotenv" },
+    { name = "fix-text" },
     { name = "frontend" },
     { name = "huggingface-hub" },
     { name = "ipykernel" },
@@ -816,6 +817,7 @@ requires-dist = [
     { name = "chromadb", specifier = ">=1.5.7" },
     { name = "chromium", specifier = ">=0.0.0" },
     { name = "dotenv", specifier = ">=0.9.9" },
+    { name = "fix-text", specifier = ">=0.1.0" },
     { name = "frontend", specifier = ">=0.0.3" },
     { name = "huggingface-hub", specifier = ">=1.9.2" },
     { name = "ipykernel", specifier = ">=7.2.0" },
@@ -847,6 +849,19 @@ requires-dist = [
     { name = "tiktoken", specifier = ">=0.12.0" },
     { name = "torch", specifier = ">=2.11.0" },
     { name = "transformers", specifier = ">=5.5.0" },
+]
+
+[[package]]
+name = "fix-text"
+version = "0.1.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "orjson" },
+    { name = "pyyaml" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/26/60/e2de94f267436385940e326ce9d25464bfd4378c7419315a440fa9692027/fix_text-0.1.0.tar.gz", hash = "sha256:5f4e30cdeb4f061e2b62609f6434c1134e7b57bfc41b9ec7387162dfb508c38c", size = 5877, upload-time = "2026-04-08T16:11:52.308Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/13/74/62cdd45a8984ca1b1944f8687b7c55c4cbd386e0596fc9c42463b132cc75/fix_text-0.1.0-py3-none-any.whl", hash = "sha256:c03a4656edc5b25f2bf4e30c8e5fd6e75c0d6d9b6892cdd71e7fccf84a98f1c5", size = 6213, upload-time = "2026-04-08T16:11:50.989Z" },
 ]
 
 [[package]]
