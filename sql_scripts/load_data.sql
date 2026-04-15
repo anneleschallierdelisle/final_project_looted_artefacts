@@ -1,4 +1,5 @@
-LOAD DATA LOCAL INFILE 'C:/Users/Utilisateur/Desktop/IRONHACK_DA/COURSES/FINAL_PROJECT/final_project_looted_artefacts/data/clean/argh/web_pages_rgx.csv'
+SET GLOBAL local_infile = 1;
+LOAD DATA LOCAL INFILE 'C:/Users/Utilisateur/Desktop/IRONHACK_DA/COURSES/FINAL_PROJECT/final_project_looted_artefacts/data/clean/web_pages_rgx_1.csv'
 INTO TABLE web_pages
 CHARACTER SET utf8mb4
 FIELDS TERMINATED BY ';'
