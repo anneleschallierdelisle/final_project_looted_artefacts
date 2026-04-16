@@ -128,70 +128,79 @@ Bridging this gap is key to building more inclusive and globally relevant data s
 ---
 
 
-
 ## Project Structure
+```
+├── config.yaml                # Project configuration settings
+├── main.py                    # Main script to run project workflows
+├── pyproject.toml             # Project dependencies and configuration
+├── uv.lock                    # Dependency lock file
+├── README.md                  # Project documentation
 
-.
-├── data/                              # Project datasets
-│   ├── raw/                           # Raw, unprocessed data
+├── data/
+│   ├── raw/                            
 │   │   ├── pdf_webscraping/
 │   │   │   ├── only_pdfs_with_pictures/
 │   │   │   └── pdf_files/
 │   │   │
-│   │   └── pdf_artifact_extraction/
+│   │   ├── pdf_image_extraction/
+│   │   │   └── output/
+│   │   │
+│   │   ├── web_image_extraction/
+│   │   │
+│   │   ├── vector_db/
+│   │   │
+│   │   ├── manual/                     
+│   │   │
+│   │   └── data_cleaning/              
 │   │
-│   └── clean/                         # Cleaned and structured datasets
-│       ├── art_dealers.csv
+│   └── clean/                          
 │       ├── looted_artefacts.csv
+│       ├── art_dealers.csv
 │       ├── match_scoring.csv
 │       ├── pdf_images.csv
 │       ├── web_pages.csv
 │       └── web_photos.csv
 
-├── figures/                           # Generated visualizations
-│   ├── bplo.png
-│   ├── hist.png
-│   ├── icones.png
-│   ├── mapbocmap.png
-│   ├── score_bplots.png
-│   ├── score_histograms.png
-│   ├── Yemenite_Looted_Artefacts_ERM.png
-│   ├── ref.txt
-│   │
-│   ├── pdf_images/                    # Extracted images from PDFs (on request)
-│   └── web_photos/                    # Scraped web images (on request)
-
-├── notebooks/                         # Analysis and processing notebooks
+├── notebooks/                          
 │   ├── 01_pdf_webscraping.ipynb
 │   ├── 02_pdf_image_extraction.ipynb
 │   ├── 03_web_image_extraction.py
-│   ├── 04_vector_database.ipynb
-│   ├── data_cleaning.ipynb
-│   │
-│   └── chroma_db/                     # Local vector database
+│   ├── 04_vector_db.ipynb
+│   └── data_cleaning.ipynb
+│
+│   └── chroma_db/                      
 │       └── chroma.sqlite3
 
-├── functions/                         # Reusable Python functions
+├── functions/                          
 │   └── extract_web_images.py
 
-├── slides/                            # Presentation materials
-│   ├── presentation.pdf               # Tableau dashboard export
-│   ├── website_cities_metadata.xlsx
-│   └── prezi_link.txt
-
-├── sql_scripts/                       # SQL scripts for database setup & queries
+├── sql_scripts/                        
 │   ├── create_db.sql
 │   ├── load_data.sql
 │   ├── output_data.sql
-│   ├── initial_schema.sql
+│   ├── initial_structure.sql
 │   │
-│   └── dump/                          # Database exports and updates
-│       ├── looted_artefacts_dump.sql
+│   └── dump/                           
+│       ├── looted_artefacts.sql
 │       └── data_cleaning_updates.sql
 
-└── src/                               # Core project source code
+├── figures/                            
+│   ├── score_histograms.png
+│   ├── score_bplots.png
+│   ├── mapbocmap.png
+│   ├── hist.png
+│   ├── bplo.png
+│   └── Yemenite_Looted_Artefacts_ERM.png
 
+├── slides/                             
+│   ├── Tableau_Dashboard.pdf
+│   ├── website_cities_metadata.xlsx
+│   └── prezi_link.txt
+
+└── src/
+```
 ---
+
 
 ## Project Resources
 
