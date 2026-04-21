@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "072",
+    "type": "قطعة ذهبية",
+    "description_texte_long": "قطعة ذهبية كمثرية الشكل بزخارف هندسية على شكل ضفيرة طولية ودائرية.",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "ebay",
+    "lien": "https://www.ebay.com",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_20_p072_img005.png"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "Awd-3-238a",
+    "type": "سوار",
+    "description_texte_long": "سوار يد مصنوع من البرونز الرفيع شبه دائري ينتهي طرفيه بنقطة التقاء",
+    "materiel": "برونز",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "متحف جبل العود– محافظة إب",
+    "lien": null,
+    "etat": "سيئة عليها طبقة من صدأ البرونز",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_9_p008_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "Awd-6-20",
+    "type": "عمود",
+    "description_texte_long": "عمود اسطواني الشكل مجوف ينتهي أحد طرفيه بنتوء بارز",
+    "materiel": "معدن",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "متحف جبل العود– محافظة إب",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_9_p008_img004.png"
+    ]
+  }
+]

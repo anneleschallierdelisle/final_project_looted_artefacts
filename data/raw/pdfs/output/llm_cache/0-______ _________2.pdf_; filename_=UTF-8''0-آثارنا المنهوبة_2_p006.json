@@ -1,0 +1,47 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "سوار",
+    "description_texte_long": "سوار من الذهب العفيف نصف دائرية ينتهي طرفيها بكتل بارزة مجوفة بشكل عنصمر زارفمي علمب كل رحوس حيوانيمة متقابلمة يمر واالمحة الملمف , تعود الب حقبة الدولة الحميرية , سرقت من احدى المقابر الملكية ممن احمدى ممدن الجموف الأثرية",
+    "materiel": "ذهب",
+    "periode": "حقبة الدولة الحميرية",
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_2_p006_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "اتم بمقبف",
+    "description_texte_long": "اتم من الذهب علب لكل دائرف , نقش عليه ثلثة حروف بامط المسمند , عليه صورة ألسدين في حالة حركة واالمحة الملممف , يعود الب حقبة الدولة الحميرية , سرقت من احدى المقابر الملكية",
+    "materiel": "ذهب",
+    "periode": "حقبة الدولة الحميرية",
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_2_p006_img004.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "اتم",
+    "description_texte_long": "اتم من الذهب علب لكل دائمرف , نقمش عليه سمتة أحمرف بامط المسمند واالمحة , يعود الب حقبة الدولة الحميرية , مسروق من إحدى المقابر الملكية",
+    "materiel": "ذهب",
+    "periode": "حقبة الدولة الحميرية",
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_2_p006_img005.png"
+    ]
+  }
+]

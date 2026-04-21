@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "012",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال آدمي من حجر المرمر، صغير الحجم، يقف على قاعدة مستطيلة رقيقة، يديه ممدودتان نحو الأمام وقد كُسرتا، وعينان غائرتان مطعمتان بالحجر الكريم.",
+    "materiel": "حجر مرمر",
+    "periode": "القرن الثاني قبل الميالد القرن الأول الميالدي",
+    "dimensions": "الارتفاع 13 3/8 × العرض 4 3/4 × العمق 4 5/16 بوصة (34 × 12 × 11 سم)",
+    "nom_musee_auction": "The walters art museum",
+    "lien": "https://art.thewalters.org/detail/76488/figure-of-a-female-worshiper/",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_21_p012_img005.png"
+    ]
+  }
+]

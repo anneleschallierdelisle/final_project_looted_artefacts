@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "29",
+    "type": "تمثال حيواني",
+    "description_texte_long": "دمية من الفخار على كل تمثال لحيوان الثور ذي قرون حادة، يحمل في رأسه إناء، والتمثال مزين بزخارف في رأسه و الإناء",
+    "materiel": "الفخار",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p015_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "30",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال لآدمي من الحجر الجيري واضح الملامح، الرأس صغير عن البدن، اليدان مضمومتان وموضوعة أعلى البطن",
+    "materiel": "الحجر الجيري",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": "واضح التفاصيل",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p015_img004.png"
+    ]
+  }
+]

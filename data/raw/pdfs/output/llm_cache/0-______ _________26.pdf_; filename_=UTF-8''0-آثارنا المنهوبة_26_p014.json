@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1205-67",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف من الجلد بني اللون عدد صفحاته 434 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 18.5 سم؛ العرض: 11.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-66",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتيب عبري مطبوع عدد صفحاته 60 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 17.5 سم؛ العرض: 11.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-6",
+    "type": "مخطوط عبري",
+    "description_texte_long": "مخطوط بالخط العبري مجلد\"نصف ورقة\" مستطيل الشكل له غلاف واحد وآخر، مفقود نتيجة طول الاستخدام، عدد أوراقه 181 وعدد صفحاته 362 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 25.5 سم؛ العرض: 8.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "أثرت فيه الأرضة والرطوبة",
+    "note": null,
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-5",
+    "type": "مخطوط عبري",
+    "description_texte_long": "مخطوط بالعبرية بدون غلاف جلدي، متفكك الأوراق، كبير الحجم، والصفحة تتكون من 32 سطر، طول السطر 15 سم، عدد أوراق المخطوط 214 ورقة، وآخر ورقة منه مقطوعة وعلى هذا يكون عدد صفحاته 428 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 31 سم؛ العرض: 21.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "أثرت فيه الأرضة والرطوبة",
+    "note": null,
+    "images_associees": []
+  }
+]

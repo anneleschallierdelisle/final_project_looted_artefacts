@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "13",
+    "type": "نقش",
+    "description_texte_long": "نقش اسم القطعة غير مذكور في النص. قطعة أثرية يمنية منهوبة.",
+    "materiel": "برونز",
+    "periode": "أواخر الألفية الأولى ق.م",
+    "dimensions": "الارتفاع 27.6 سم، العرض 15.2 سم، السمك 1.3 سم",
+    "nom_musee_auction": "Metropolitan Museum",
+    "lien": "https://www.metmuseum.org/art/collection/search/327483",
+    "etat": "جيدة",
+    "note": "يوضح الموقع بان جهة الاقتناء: صندوق بايفر، 1993",
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p014_img003.png"
+    ]
+  }
+]

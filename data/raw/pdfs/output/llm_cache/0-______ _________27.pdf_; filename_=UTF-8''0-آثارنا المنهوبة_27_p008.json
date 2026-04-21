@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "15",
+    "type": "مبخرة",
+    "description_texte_long": "مبخرة مصنوعة من الحجر الجيري لها قاعدة مخروطية الشكل)هرمية( وبدن مكعب الشكل عليه مناظر رسوم لحيوان الوعل ذو قرون كبيرة واضحة المﻼمح يلتف رؤوسها للخلف يفصل بينهما رمز الهﻼل والقمر.",
+    "materiel": "جيري",
+    "periode": "ما قبل اﻹسﻼم",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن اﻹسﻼمي",
+    "lien": null,
+    "etat": null,
+    "note": "عدد القطع1",
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p008_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "16",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال ﻷدمي من الحجر الجيري واضح المﻼمح الرأس صغير عن البدن، اليدان مضمومتان وموضوعة أعلى البطن المنفوخة واضحة التفاصيل",
+    "materiel": "جيري",
+    "periode": "ما قبل اﻹسﻼم",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن اﻹسﻼمي",
+    "lien": null,
+    "etat": null,
+    "note": "عدد القطع1",
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p008_img004.png"
+    ]
+  }
+]

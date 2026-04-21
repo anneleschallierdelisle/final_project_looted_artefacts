@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "002",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال آدمي لرجل، يداه ممدودتان نحو الأمام من حد المرفقين، يظهر الشكل عاري الصدر مرتديًا قماش، تم تقديم ملامح الوجه بأسلوب منمق، مع عيون مفتوحة على مصراعيها وأنف مستقيم.",
+    "materiel": "البرونز",
+    "periode": "حوالي القرن الرابع- القرن الأول قبل الميالد",
+    "dimensions": "ح11 سم",
+    "nom_musee_auction": "LAPADA",
+    "lien": "https://lapada.org/art/bronze-sabaean-arabian-south-antiques/rare-idol/",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_10_p005_img005.png"
+    ]
+  }
+]

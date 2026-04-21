@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "17",
+    "type": "تمثال آدمي",
+    "description_texte_long": "عد هذا التمثال أقدم شاهد للفن الإغريقي في اليمن القديم، ويمثل محاربا سبرطيا، الدرع الأملس بحوافه المرفوعة.",
+    "materiel": "برونز",
+    "periode": "قديم(ما قبل اإلسالم)",
+    "dimensions": "االرنفاع17 سم",
+    "nom_musee_auction": "مجموعة جورج أورتز في لندن.",
+    "lien": "https://www.georgeortiz.com/objects/greek-world-cont/117-warrior-archaic/",
+    "etat": "مفقود اليدين",
+    "note": "يشير النص إلى أن مصدره من الكونيا أو بشكل عام من إقليم بيلوبنيز في اليونان.",
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p021_img003.png"
+    ]
+  }
+]

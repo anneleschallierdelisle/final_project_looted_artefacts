@@ -1,0 +1,33 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال آدمي من حجر المرمر (الرخام)، بوضعية الوقوف يغطي جسده رداء منسدل لأعلى، اليدين ممدودتين للأمام، يقف التمثال على قاعدة مستطيلة من نفس حجر التمثال، عليها أحرف بخط المسند.",
+    "materiel": "حجر المرمر (الرخام)",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "المعروضة للبيع في سوق حزم الجوف",
+    "lien": null,
+    "etat": "منهوبة",
+    "note": "عليها أحرف بخط المسند.",
+    "images_associees": [
+      "0-آثارنا المنهوبة_18_p002_img005.png",
+      "0-آثارنا المنهوبة_18_p002_img006.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "قنينة",
+    "description_texte_long": "قنينة من البرونز ذات درجة شفافية عالية، أسفلها بيضاوي متسع يعلوها عنق اسطواني طويل ينتهي بفوهة مقلوبة للخارج.",
+    "materiel": "البرونز",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "المعروضة للبيع في سوق حزم الجوف",
+    "lien": null,
+    "etat": "منهوبة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_18_p002_img007.png"
+    ]
+  }
+]

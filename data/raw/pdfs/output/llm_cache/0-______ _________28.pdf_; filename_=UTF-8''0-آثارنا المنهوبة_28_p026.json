@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "26",
+    "type": "تميمة",
+    "description_texte_long": "عليها كتابة بخط المسند على الوجهين، تقرأ (ح م ي م)",
+    "materiel": "نحاس",
+    "periode": "قديم",
+    "dimensions": "الطول 3.55 سم",
+    "nom_musee_auction": "المتحف البريطاني",
+    "lien": "https://www.britishmuseum.org/collection/object/W_1925-0923-2",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_28_p026_img005.png"
+    ]
+  }
+]

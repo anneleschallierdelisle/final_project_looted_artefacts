@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1206-59",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بدون غالف، من القطع الكبيرة، عدد صفحاته 396 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 38 سم؛ العرض: 26 سم",
+    "nom_musee_auction": "المتحف الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-58",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي مهتري، عدد الصفحات 434 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 25.5 سم؛ العرض: 18.4 سم",
+    "nom_musee_auction": "المتحف الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-57",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع من الورق من القطع الكبيرة بغالف كرتوني مغشا بقماش أبيض، عدد الصفحات 176 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 35.5 سم؛ العرض: 22.5 سم",
+    "nom_musee_auction": "المتحف الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-56",
+    "type": "جزء من كتاب عبري مطبوع",
+    "description_texte_long": "جزء من كتاب عبري مطبوع بدون غالف، عدد الصفحات 64 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 19 سم؛ العرض: 12.5 سم",
+    "nom_musee_auction": "المتحف الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام",
+    "images_associees": []
+  }
+]

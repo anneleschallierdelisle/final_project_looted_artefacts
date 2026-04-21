@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "5",
+    "type": "تمثال آدمي",
+    "description_texte_long": null,
+    "materiel": "مرمر",
+    "periode": "القرن الثالث -الثاني ق.م",
+    "dimensions": "االرتفاع : 15.5 سم، العرض : 11.4 سم، العمق : 7.5 سم",
+    "nom_musee_auction": "Drouot / LOT-ART",
+    "lien": "https://www.lot-art.com/auction-lots/TETE-MASCULINE/71-tete_masculine-11.12.25-monte",
+    "etat": "جيدة",
+    "note": "معروضة للبيع في شهر ديسمبر الحالي",
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p006_img002.png"
+    ]
+  }
+]

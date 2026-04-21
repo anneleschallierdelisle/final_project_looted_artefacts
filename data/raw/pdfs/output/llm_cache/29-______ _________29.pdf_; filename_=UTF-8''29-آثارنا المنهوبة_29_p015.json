@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "12",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال آدمي.",
+    "materiel": "برونز",
+    "periode": "قديم(ما قبل اإلسالم)",
+    "dimensions": null,
+    "nom_musee_auction": "الموقع غير معروف",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p015_img003.png"
+    ]
+  }
+]

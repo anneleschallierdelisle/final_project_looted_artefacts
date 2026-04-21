@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "SEM 8",
+    "type": "نقش",
+    "description_texte_long": "نقش من البرونز مستطيل الشكل كتب عليه نقش بالخط المسند مكون من سبع أسطر.",
+    "materiel": "برونز",
+    "periode": "القرن الأول قبل الميلد– القرن الأول الميلدي",
+    "dimensions": "ارتفاع13.5 سم، عرض8.7 سم، عمق0.5 سم؛ الوزن319 غرام",
+    "nom_musee_auction": "متحف تاريخ الفن في فيينا– مجموعة الآثار المصرية والشرقية، القاعةVIa",
+    "lien": "https://www.khm.at/kunstwerke/weihinschrift",
+    "etat": "جيدة",
+    "note": "هرم في محافظة الجوف؛ تم اقتناؤها من مجموعة جلزر عام1894؛ القطعة منشورة على موقع https://dasi.cnr.it/index.php?id=30&prjId=1&corId=0&colId=0&navId=6508&recId=4010&mark=04010%2C001%2C003",
+    "images_associees": [
+      "0-آثارنا المنهوبة_28_p003_img005.png"
+    ]
+  }
+]

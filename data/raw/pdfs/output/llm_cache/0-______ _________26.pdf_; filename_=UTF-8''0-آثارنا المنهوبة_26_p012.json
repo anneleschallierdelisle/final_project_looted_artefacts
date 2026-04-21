@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1205-76",
+    "type": "كراسة مطبوعة",
+    "description_texte_long": "كراسة صغيرة من مخطوط عبري بدون غالف عدد صفحاته 20 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 17 سم؛ العرض: 12 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "عبرية",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-75",
+    "type": "كراسة مطبوعة",
+    "description_texte_long": "كراسة مطبوعة بالعبرية بدون غالف عدد صفحاته 42 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 20.5 سم؛ العرض: 16 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "عبرية",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-73",
+    "type": "كتيب عبري مطبوع",
+    "description_texte_long": "كتيب عبري مطبوع بغالف ورقي عدد صفحاته 54 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 21.7 سم؛ العرض: 13.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "عبرية",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-72",
+    "type": "كراسة مخطوط مطبوع",
+    "description_texte_long": "كراسة صغيرة مخطوطة بالعبرية بدون غالف عدد صفحاته 28 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 17.6 سم؛ العرض: 12.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "عبرية",
+    "images_associees": []
+  }
+]

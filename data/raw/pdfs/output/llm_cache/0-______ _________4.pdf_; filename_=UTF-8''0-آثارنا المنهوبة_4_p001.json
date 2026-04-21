@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "خاتم",
+    "description_texte_long": "خاتم من الذهب كبير نسبياً مطعم بفص من الفضة عليه صهورة طهائر البومهة عملهة سهبئية) و عليهها حروف مسند",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "دار بركات",
+    "lien": "https://barakatgallery.eu/artworks/57956-sabean-silver-drachma-300-bce-200-ce/",
+    "etat": "مفقودة",
+    "note": "عرض في دار بركات",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p001_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "تمثال لرجل",
+    "description_texte_long": "تمثال لرجل واقف واضح المالمح, اليد ممدودة واليد األخرى مكسورة يلبس رداء, ليس له أرجهل",
+    "materiel": "برونز",
+    "periode": "القرن الثاني قبل الميالد",
+    "dimensions": null,
+    "nom_musee_auction": "أحد المزادات العالمية",
+    "lien": "https://store.barakatgallery.com/product/sabean-bronze-sculpture-of-a-standing-man/",
+    "etat": "مفقودة",
+    "note": "تم الكشف عن",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p001_img004.png"
+    ]
+  }
+]

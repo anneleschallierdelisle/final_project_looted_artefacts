@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "9",
+    "type": "معضد",
+    "description_texte_long": "معضد من الفضة أسطوانية الشكل نحت عليها نحت بارز لرسوم حيوانية اسطورية متقابلة ووجوه أدمية، عناصر زخرفية مطعمة بفصوص من الأحجار الكريمة",
+    "materiel": "فضة",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p005_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "10",
+    "type": "تمثال حيواني",
+    "description_texte_long": "تمثال لحيوان اسطوري مجنح مصنوع من البرونز له وجه ادمي واضح الملامح، يغطي الرأس قبعة، يقف الحيوان على اربع قوائم منتصبة على قاعدة مدرجة، وعلى البدن جناحان مرفوعان.",
+    "materiel": "برونز",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p005_img004.png"
+    ]
+  }
+]

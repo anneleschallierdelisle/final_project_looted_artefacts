@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "066",
+    "type": "شاهد قبر",
+    "description_texte_long": "شاهد قبر مستطيل الشكل، نُحت في أعلاه وجه المتوفي وفي الأسفل اسمه أ و س ع ث ت.",
+    "materiel": "حجر جيري",
+    "periode": "القرن الأول قبل الميلاد",
+    "dimensions": null,
+    "nom_musee_auction": "ebay",
+    "lien": "https://www.ebay.com",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_20_p066_img005.png"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "3",
+    "type": "تمثال آدمي",
+    "description_texte_long": null,
+    "materiel": "حجر جيري",
+    "periode": "القرن الأول ق.م",
+    "dimensions": "االرتفاع23 سم",
+    "nom_musee_auction": "Artcurial",
+    "lien": "https://www.artcurial.com/en/sales/2266/lots/27-a",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p004_img002.png"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "002",
+    "type": "نقش مسند",
+    "description_texte_long": "نقش مسند من المرمر، كُتبت عليه أربعة أسطر بخط المسند الغائر المزخرف بالزوايا، جزء من النقش مفقود.",
+    "materiel": "حجر مرمر",
+    "periode": "حوالي القرن الأول الميلادي",
+    "dimensions": "20.5 × 13 سم",
+    "nom_musee_auction": "BADA",
+    "lien": "https://www.bada.org/object/south arabian inscription",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_19_p002_img005.png"
+    ]
+  }
+]

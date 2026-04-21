@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "12",
+    "type": "تمثال آدمي",
+    "description_texte_long": null,
+    "materiel": "برونز",
+    "periode": "القرن الأول ق. م -الأول م",
+    "dimensions": "االرتفاع30.5 سم",
+    "nom_musee_auction": "Artcurial",
+    "lien": "https://www.artcurial.com/en/sales/2192/lots/64-a",
+    "etat": "جيدة",
+    "note": "يوضح الموقع ان القطعة : من مجموعة خاصة بلجيكية قديمة، تعود إلى عام1968.",
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p013_img003.png"
+    ]
+  }
+]

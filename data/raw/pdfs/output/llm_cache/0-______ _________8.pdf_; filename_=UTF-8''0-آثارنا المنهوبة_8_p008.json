@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "155",
+    "type": "صندوق",
+    "description_texte_long": "صندوق مستطيلة من البرنز صغيرة الحجم لها أربع أرجل تشبه أرجل الحصان، لها غطاء مستطيل منفصل، له مقبض نصف دائري.",
+    "materiel": "برنز",
+    "periode": "ما قبل الاسلام",
+    "dimensions": "عرض 16,7 سم، ارتفاع 6,8 سم",
+    "nom_musee_auction": "متحف زنجبار – أبين",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_8_p008_img006.png"
+    ]
+  },
+  {
+    "numero_inventaire": "186",
+    "type": "تمثال لجمل مع الراكب",
+    "description_texte_long": "تمثال لجمل مع الراكب شبه مسطحة، واضح الملامح، السنام بارز، إحدى الأرجل الأمامية مكسورة ومفقودة.",
+    "materiel": "برونز",
+    "periode": "ما قبل الاسلام",
+    "dimensions": "عرض 6,8 سم، ارتفاع 4 سم",
+    "nom_musee_auction": "متحف زنجبار – أبين",
+    "lien": null,
+    "etat": "إحدى الأرجل الأمامية مكسورة ومفقودة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_8_p008_img007.png"
+    ]
+  }
+]

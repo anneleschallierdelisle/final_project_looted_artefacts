@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1206-46",
+    "type": "كتاب",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي مهترئ عدد الصفحات 528 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 21 سم؛ العرض: 16 سم",
+    "nom_musee_auction": "مفقودات من متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "الصــور ورقمها: 1؛ المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-45",
+    "type": "كتاب",
+    "description_texte_long": "كتاب عبري مطبوع بغالف كرتوني الكتاب مفصول عن الغالف عدد الصفحات 386 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 20 سم؛ العرض: 12.5 سم",
+    "nom_musee_auction": "مفقودات من متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "الصــور ورقمها: 1؛ المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-44",
+    "type": "كتاب",
+    "description_texte_long": "كتاب عبري مطبوع منزوع الغالف عدد الصفحات 464 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 22 سم؛ العرض: 14.5 سم",
+    "nom_musee_auction": "مفقودات من متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "الصــور ورقمها: 1؛ المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-43",
+    "type": "كتاب",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي بني عدد صفحاته 350 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 27 سم؛ العرض: 20 سم",
+    "nom_musee_auction": "مفقودات من متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "الصــور ورقمها: 1؛ المصدر: قصر الإمام",
+    "images_associees": []
+  }
+]

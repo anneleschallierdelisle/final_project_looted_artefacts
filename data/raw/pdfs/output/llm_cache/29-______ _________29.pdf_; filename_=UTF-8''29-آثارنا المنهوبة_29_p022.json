@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "18",
+    "type": "تمثال",
+    "description_texte_long": null,
+    "materiel": "برونز",
+    "periode": "قديم(ما قبل اإلسالم)",
+    "dimensions": "االرتفاع31,5 سم، العرض17 سم",
+    "nom_musee_auction": "مجموعة بربرات الخاصة",
+    "lien": null,
+    "etat": "مفقود القاعدة والقائمة األمامية اليسرى",
+    "note": "(من كتاب البرونز في اليمن القديم للدكتوره عزة عقيل)",
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p022_img003.png"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "007",
+    "type": "تمثال",
+    "description_texte_long": "تمثال لرجل يمتطي جمل. جمل منحني إلى الأمام في حالة حركة، يمتطيه راكب على شكل آدمي.",
+    "materiel": "برونز",
+    "periode": "1-2 ق.م",
+    "dimensions": "7.1 × 2.1 × 8 سم",
+    "nom_musee_auction": "Antiquities",
+    "lien": "Near Eastern Antiquities | Ancient & Oriental",
+    "etat": "جيدة",
+    "note": "تم الحصول عليها في الثمانينيات من مجموعة فرنسية.",
+    "images_associees": [
+      "0-آثارنا المنهوبة_16_p007_img003.png"
+    ]
+  }
+]

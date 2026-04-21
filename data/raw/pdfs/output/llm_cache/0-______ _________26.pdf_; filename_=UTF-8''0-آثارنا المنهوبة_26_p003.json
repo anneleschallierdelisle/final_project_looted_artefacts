@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "55-1206",
+    "type": "كتاب عبري",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي ومهتري ومتآكل. عدد الصفحات 242 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 33سم؛ العرض: 22 سم",
+    "nom_musee_auction": "المتحف الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام. السجل رقم 1. محتويات المتحف الوطني. مطبوع 1206-55.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "54-1206",
+    "type": "كتاب عبري",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي بني متآكل في طرفيه عند الأصل. عدد الصفحات 1042.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 17.8 سم؛ العرض: 10.5 سم",
+    "nom_musee_auction": "المتحف الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام. السجل رقم 1. محتويات المتحف الوطني. مطبوع 1206-54.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "53-1206",
+    "type": "كتاب عبري",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي بني مهتري ومتآكل الغالف. عدد الصفحات 334 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 21 سم؛ العرض: 13 سم",
+    "nom_musee_auction": "المتحف الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام. السجل رقم 1. محتويات المتحف الوطني. مطبوع 1206-53.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "52-1206",
+    "type": "كتاب عبري",
+    "description_texte_long": "كتاب عبري مطبوع بغالف كرتوني مغشا بقماش اسود مزخرف. عدد صفحاته 324 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 25 سم؛ العرض: 19.3 سم",
+    "nom_musee_auction": "المتحف الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام. السجل رقم 1. محتويات المتحف الوطني. مطبوع 1206-52.",
+    "images_associees": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "17",
+    "type": "افريز - عنصر معماري",
+    "description_texte_long": "أفريز جداري مستطيل الشكل مصنوع من الرخام المصقول، عليه نحت لتسعة رؤوس لثيران واضحة المﻼمح",
+    "materiel": "رخام",
+    "periode": "ما قبل اﻹسﻼم",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن اﻹسﻼمي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p009_img004.png"
+    ]
+  },
+  {
+    "numero_inventaire": "18",
+    "type": "أواني",
+    "description_texte_long": "كأس منحوت من الخشب قمعي الشكل، له فوهة دائرية واسعة، وبدن مخروطي عليه زخارف على الحافة وحروف بالخط المسند ،ملتصق به تمثال ﻻمرأة في وضعية جلوس واضحة المﻼمح، اليدان مضمومة",
+    "materiel": "خشب",
+    "periode": "ما قبل اﻹسﻼم",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن اﻹسﻼمي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p009_img004.png"
+    ]
+  }
+]

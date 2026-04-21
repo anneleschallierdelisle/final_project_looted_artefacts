@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "لوحة إلمرأة",
+    "description_texte_long": "لوحهة إلمهرأة نحتهت عله حجهر جيه ري نحتهاً بهارزاً , واضهحة المالمهح العينهان لوزيتهان كبيرتهان واألنف ص ير بارز , أحدى اليدين مرفوعهة اله جانب الوجه واألخهرى اله الصهدر, عله رقبتهها عِقد.",
+    "materiel": "حجر جيري",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "Barakat Gallery",
+    "lien": "https://store.barakatgallery.com/product/sabean-stone-stela-depicting-woman/",
+    "etat": "مفقودة",
+    "note": "صورة رقم11",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p006_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "تمثال وعـل",
+    "description_texte_long": "تمثال لوعل من حجر المرمر واضح المالمح ,القرون منحنية اله ال الخلف يقف عله قاعدة مه ن نفس مادة الحجر",
+    "materiel": "المرمر",
+    "periode": "الحقبة السبئية",
+    "dimensions": null,
+    "nom_musee_auction": "عرض في احدى مزادات امريكا",
+    "lien": "https://store.barakatgallery.com/product/sabean-alabaster-ram/",
+    "etat": "مفقود",
+    "note": "صورة رقم12",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p006_img004.png"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "010",
+    "type": "تمثال",
+    "description_texte_long": "تمثال لامرأة واضحة الملامح تقف على قاعدة مستطيل الشكل، ترتدي ...",
+    "materiel": "مرمر",
+    "periode": "700 BCE",
+    "dimensions": "900 700 م.ق",
+    "nom_musee_auction": "Barakat",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_14_p012_img003.png"
+    ]
+  }
+]

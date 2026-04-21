@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "رأس ثور",
+    "description_texte_long": "جزء من افريز من حجر الرخام المصقول عل  هيئة رأس ثور ,واضح المالمهح , القرنهان مكسهوران",
+    "materiel": "رخام",
+    "periode": "الدولة السبئية",
+    "dimensions": null,
+    "nom_musee_auction": "باركات غاليري",
+    "lien": "https://barakatgallery.eu/artworks/56867-sabean-alabaster-relief-of-a-horned-bull-200-bce-100-ce/",
+    "etat": "القرنهان مكسهوران",
+    "note": "عرض في أحد المزادات في بريطانيا",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p009_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "قاعدة شمعدان",
+    "description_texte_long": "قاعدة شمعدان مصنوعة من البرونز , ترتكز عل  ثالث ارجل له ا فوهة دائرية , الحافة ال الخارج بها ثالثة تماثيل ادمي معلقة واضحة المالمح",
+    "materiel": "برونز",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "المتحف الوطني لسلطنة عُمان",
+    "lien": "https://www.nm.gov.om/collection/gift/archaeological-findings",
+    "etat": null,
+    "note": "معروضة في المتحف الوطني لسلطنة عُمان",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p009_img004.png"
+    ]
+  }
+]

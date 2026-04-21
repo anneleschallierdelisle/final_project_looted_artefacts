@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "22-1206",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف كرتوني متآكل عدد صفحاته 554 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 20.4 سم؛ العرض: 12.7 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "عبري",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "21-1206",
+    "type": "كتاب عبري مخطوط",
+    "description_texte_long": "كتاب عبري مخطوط بغالف جلدي بني عليه زخرفة هندسية عدد صفحاته 290 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 22.5 سم؛ العرض: 14.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "عبري",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "9-1205",
+    "type": "نسخة مخطوط",
+    "description_texte_long": "كراس مخطوط بالخط العبري مستطيل الشكل (نصف ورقة) بدون غلاف جلدي عدد أوراقه 53 ورقة عدد صفحاته 206 صفحة منها صفحتان فارغتان أسطر صفحاته متفاوتة العدد (23 - 28) طول السطر 4.5 سم.",
+    "materiel": "ورقة",
+    "periode": null,
+    "dimensions": "الطول: 16.5 سم؛ العرض: 7.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "بغير غلاف",
+    "note": "عبري",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "81-1205",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بدون غلاف عدد صفحاته 224 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 16.5 سم؛ العرض: 10.4 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "عبري",
+    "images_associees": []
+  }
+]

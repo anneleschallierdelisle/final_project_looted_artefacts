@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "22",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال آدمي.",
+    "materiel": "برونز",
+    "periode": "قديم(ما قبل اإلسالم)",
+    "dimensions": "اإلرتفاع5. سم",
+    "nom_musee_auction": "مجموعة خاصة",
+    "lien": null,
+    "etat": "مكتمل، تغلفه طبقة سميكة من األكسدة.",
+    "note": "(من كتاب البرونز في اليمن القديم للدكتوره عزة عقيل)",
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p026_img003.png"
+    ]
+  }
+]

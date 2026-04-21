@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "2",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال آدمي",
+    "materiel": "مرمر",
+    "periode": "القرن الأول ق.م",
+    "dimensions": "الارتفاع 19 سم",
+    "nom_musee_auction": "Artcurial",
+    "lien": "https://www.artcurial.com/en/sales/4042/lots/46-a",
+    "etat": "جيدة",
+    "note": "يوضح الموقع أن القطعة كانت مع جان سوفانيارغ (1915–2002)، دبلوماسي فرنسي ووزير سابق، وقد تلقّى هذه القطعة في أواخر خمسينيات القرن العشرين من أنطونين بيسه الثاني.",
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p003_img002.png"
+    ]
+  }
+]

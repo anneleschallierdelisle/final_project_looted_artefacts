@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "011",
+    "type": "تمثال",
+    "description_texte_long": "تمثال لحيوان الجمل. تمثال لحيوان الجمل، ملامحه واضحة، يقف على قاعدة مستطيلة الشكل.",
+    "materiel": "مرمر",
+    "periode": "300 ق.م",
+    "dimensions": "20.3 × 19.1 سم",
+    "nom_musee_auction": "Barakat",
+    "lien": null,
+    "etat": null,
+    "note": "300 BCE | Barakat - Sabean Alabaster Camel, 900 BCE Gallery",
+    "images_associees": [
+      "0-آثارنا المنهوبة_14_p013_img003.png"
+    ]
+  }
+]

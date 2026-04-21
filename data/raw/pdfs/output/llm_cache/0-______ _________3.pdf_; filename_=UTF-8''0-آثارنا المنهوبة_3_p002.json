@@ -1,0 +1,47 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "قطعة دائرية مفصصه",
+    "description_texte_long": "قطعة من الذهب دائرية الشكل مجوفة لها نتوء بارز على قاعدة دائرية عليها فص صغير من حجر كريم (ياقوت)، استخرجت من إحدى المقابر عن طريق النبش، مسروقة من إحدى مقابر الجوف الملكية.",
+    "materiel": "ذهب",
+    "periode": "أثاا جنائزي",
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p002_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "قالدة- قناع وجه صغير",
+    "description_texte_long": "قناع وجه صغير الحجم مصنوع من الذهب على شكل قالدة، واضح الملامح ملتحٍ، عليه حبيبات موزعة على الوجه والرأس، له قرون مدببة بارزة، استخرج عن طريق النبش العوائي، مسروق من إحدى مقابر الجوف الملكية.",
+    "materiel": "ذهب",
+    "periode": "أثاا جنائزي",
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p002_img005.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "حلش",
+    "description_texte_long": "حلش مربع الشكل مثقوب في الوسط وقطعتان على شكل وجهين آدميين مختلفي السحنة، ربما لطفلين، مسروقة من إحدى مقابر الجوف الملكية.",
+    "materiel": "ذهب",
+    "periode": "أثاا جنائزي",
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p002_img006.png"
+    ]
+  }
+]

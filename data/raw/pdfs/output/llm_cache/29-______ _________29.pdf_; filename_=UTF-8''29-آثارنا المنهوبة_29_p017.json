@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "14",
+    "type": "نقش اسم القطعة",
+    "description_texte_long": "وصف القطعة غير مذكور في النص المقتبس.",
+    "materiel": "حجر جيري",
+    "periode": "قديم(ما قبل اإلسالم)",
+    "dimensions": null,
+    "nom_musee_auction": "الموقع غير معروف",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مالحظات غير مذكورة في النص المقتبس.",
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p017_img003.png"
+    ]
+  }
+]

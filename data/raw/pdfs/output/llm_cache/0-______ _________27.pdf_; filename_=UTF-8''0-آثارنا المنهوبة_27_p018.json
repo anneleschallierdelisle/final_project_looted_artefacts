@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "35",
+    "type": "ليُح",
+    "description_texte_long": "خاتم من الذهب دائري الشكل، يلتقي طرفه بكتلة دائرية مسطحة نفذ عليها اشكال وحروف بالخط المسند",
+    "materiel": "ذهب",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p018_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "36",
+    "type": "ليُح",
+    "description_texte_long": "خاتم من الذهب دائري الشكل سميك، عليه فص من الحجر الكريم، نفذ عليه صورة حيوان يقفز ربما اسد وحروف بالخط المسند",
+    "materiel": "ذهب",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": "المسند ح ي ي",
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p018_img004.png"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "006",
+    "type": "نقش حجري",
+    "description_texte_long": "نقش من الحجر الجيري، مستطيل الشكل يعود إلى عهد الملك الحضرمي إل عز يلط.، مكون من ثلاثة أسطر:\n1- ي ر ض و ن / ي ه ـ ن ع م / و ه ـ ب أ ل ]...[ \n2- ق ت د م / ه ـ م ر أ س / أ ل ع ز ي ل ط / م ل ك\n3- ح ض ر م ت / ب ن / ي د ع أ ل / م ح ر م / ذ ت / ظ ه ـ ر ن",
+    "materiel": "حجر جيري",
+    "periode": "القرن الأول قبل الميالد - القرن الأول الميلادي",
+    "dimensions": "ارتفاع 21.5 سم",
+    "nom_musee_auction": "Ashmolean image library",
+    "lien": "https://images.ashmolean.org/asset/63388/",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_21_p006_img005.png"
+    ]
+  }
+]

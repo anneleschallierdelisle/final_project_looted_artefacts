@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "جزء من نقش بخط العبري",
+    "description_texte_long": "جزء من نقش كتب بالخط العبري، مكون من خمسة اسطر داخل اطار ملونة باللون البني، يعود الى الدولة الحميرية، تم نشر صورته في صحيفة Times of the Israel وعرضها في متحف اراضي الكتاب المقدس الإسرائيلي في فلسطين المحتلة.",
+    "materiel": "حجر جيري",
+    "periode": "الدولة الحميرية",
+    "dimensions": null,
+    "nom_musee_auction": "متحف اراضي الكتاب المقدس الإسرائيلي في فلسطين المحتلة",
+    "lien": "https://www.timesofisrael.com/prophets-exhibit-jerusalem-in-vivid-made",
+    "etat": "مفقود",
+    "note": "صورة رقم21",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p011_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "تمثالين المرأتين",
+    "description_texte_long": "تمثالين من الحجر الجيري المرأتين تجلسان على كرسيين واضحة الملامح في النحت، العيون واضحة والأنفان بارزان، الايدي ممدودة، مختلفتان في سحنة الوجوه، تعود الى الدولة الأوسانية، تم نشر صورتها في صحيفة Times of the Israel وعرضها في متحف اراضي الكتاب المقدس الإسرائيلي في فلسطين المحتلة.",
+    "materiel": "حجر جيري",
+    "periode": "الدولة الأوسانية",
+    "dimensions": null,
+    "nom_musee_auction": "متحف اراضي الكتاب المقدس الإسرائيلي في فلسطين المحتلة",
+    "lien": "https://www.timesofisrael.com/prophets-exhibit-jerusalem-in-vivid-made",
+    "etat": "مفقود",
+    "note": "صورة رقم22",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p011_img004.png"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "1",
+    "type": "تمثال آدمي",
+    "description_texte_long": "عرف المزاد القطعة بأنها من مجموعة فرنسية قديمة",
+    "materiel": "مرمر",
+    "periode": "القرن الأول /الثاني الميلادي",
+    "dimensions": "الارتفاع27.7 سم",
+    "nom_musee_auction": "Gerhard Hirsch Nachfolger",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p003_img002.png"
+    ]
+  }
+]

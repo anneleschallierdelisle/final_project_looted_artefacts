@@ -1,0 +1,48 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "حلش اذز– أ ثاا جنائزي",
+    "description_texte_long": "زو حلش اذز مز الذهب نصف دائري مبروم ينته بقف عند الطرف مسروقة مز إحدى مقابر الجوف الملكية",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "القطعة جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p006_img006.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "حلش اذز",
+    "description_texte_long": "زوجةةيزمة ز الحلةش مز الذهب نصف دائري مبروم ينته كزو بقف عند الطرف مسروقة مز إحدى مقابر الجوف الملكية",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "القطعة جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p006_img004.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "عقد رقبة – أ ثاا جنائزي",
+    "description_texte_long": "عقةةد رقبةةة مز الذهب مبروم متدات ببعض مركب مز حلش ذهبية صغيرة أ به بالزنبرك مسروقة مز إحدى مقابر الجوف الملكية",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "القطعة جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p006_img003.png",
+      "0-آثارنا المنهوبة_3_p006_img005.png"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "لوحة إمرأة (الحاضنة)",
+    "description_texte_long": "لوحة من الرخام إمرأة تحتضن بين ذراعيها طفل رضيع، الوجه شبه دائري، والعينان لوزيتان غائرتان، معروضة في أحد المزادات في بريطانيا، مسروقة من متحف تعز.",
+    "materiel": "رخام",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "متحف تعز / مزاد في بريطانيا",
+    "lien": "https://store.barakatgallery.com/product/sabean-alabaster-stele-depicting-a-mother-and-child/",
+    "etat": "مفقودة",
+    "note": "صورة رقم13",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p007_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "شاهد قبر",
+    "description_texte_long": "شاهد قبر لرجل واضح الملامح، العينان لوزيتان والحاجبان مرفوعان، والأنف بارز والفم صغير، كتب عليه ثلاثة أحرف بخط المسند تذكر اسم المتوفى، تعود للدولة السبئية، معروضة في مزاد بأمريكا.",
+    "materiel": "حجر جيري",
+    "periode": "الدولة السبئية",
+    "dimensions": null,
+    "nom_musee_auction": "مزاد بأمريكا",
+    "lien": "https://store.barakatgallery.com/product/sabean-funerary-stone-plaque/",
+    "etat": "مفقودة",
+    "note": "صورة رقم14",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p007_img003.png"
+    ]
+  }
+]

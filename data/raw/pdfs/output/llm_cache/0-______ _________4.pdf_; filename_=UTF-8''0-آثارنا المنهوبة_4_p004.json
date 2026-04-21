@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "تمثال لرجل داخل إفريز من الرخام",
+    "description_texte_long": "إفريز جداري من الرخام, مستطيل الشكل, يعلوه ثمانية رؤوس الوعول, وضع بداخله تمثال صغير من البرونز لرجل واقف واضح الملامح, اليدان ممدودتان إلى الأمام, يقف على قاعدة من نفس الإفريز, بيع في أحد المزادات العلنية في أمريكا.",
+    "materiel": "برونز + لوحة رخام",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "أحد المزادات العلنية في أمريكا",
+    "lien": "https://www.thecityreview.com/f09cant.html",
+    "etat": "مفقودة",
+    "note": "صورة رقم 7",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p004_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "تمثال إمرأة سبئية",
+    "description_texte_long": "تمثال لإمرأة (آلهة الخصوبة) سبئية, واضحة الملامح, العينان واضحتان والأنف بارز والفم ملامح, اليدان مضمومة إلى الصدر.",
+    "materiel": "حجر جيري",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "أحد المزادات في امريكا",
+    "lien": "https://store.barakatgallery.com/product/sabean-marble-fertility-goddess/",
+    "etat": "معروضة",
+    "note": "صورة رقم 8",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p004_img003.png"
+    ]
+  }
+]

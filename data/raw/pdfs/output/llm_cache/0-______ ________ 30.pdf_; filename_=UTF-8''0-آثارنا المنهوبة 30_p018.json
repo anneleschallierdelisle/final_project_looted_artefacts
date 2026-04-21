@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "17",
+    "type": "مبخرة",
+    "description_texte_long": null,
+    "materiel": "برونز",
+    "periode": "حوالي منتصف القرن الأول ق.م",
+    "dimensions": "الارتفاع: 27.7 سم، العرض: 23.7 سم، العمق: 23.2 سم، قياس القاعدة: 14.8 سم، قطر الحافة: 16.6 سم",
+    "nom_musee_auction": "Metropolitan Museum",
+    "lien": "https://www.metmuseum.org/art/collection/search/324075",
+    "etat": "جيدة",
+    "note": "يوضح الموقع بان القطعة: هدية من الدكتور سيدني أ.تشارالت، تخليدًا لذكرى والديه، نيومان وأديل تشارالت، 1949",
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p018_img003.png"
+    ]
+  }
+]

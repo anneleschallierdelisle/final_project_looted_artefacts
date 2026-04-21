@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "001",
+    "type": "مائدة قرابين",
+    "description_texte_long": "مائدة قرابين بإطار عريض يقف على أربعة أقدام مربعة. يتقدم المائدة نحت أربعة رؤوس وعل مع قرون حلزونية طويلة بارزة.",
+    "materiel": "مرمر",
+    "periode": "القرن الثالث ق.م - الاول ق.م",
+    "dimensions": "17 سم L بما في ذلك الوعل - 6 11/16 × بوصة 10.5 سم",
+    "nom_musee_auction": "Artemission",
+    "lien": "Item Detail (artemission.com)",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_10_p008_img005.png"
+    ]
+  }
+]

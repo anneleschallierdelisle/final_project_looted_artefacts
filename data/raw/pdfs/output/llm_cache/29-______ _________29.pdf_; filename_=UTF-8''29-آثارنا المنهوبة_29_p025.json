@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "21",
+    "type": "تمثال آدمي",
+    "description_texte_long": null,
+    "materiel": "بررونز",
+    "periode": "القرن الثاني والثالث الميالدي",
+    "dimensions": "االرتفاع10 سم",
+    "nom_musee_auction": "مجموعة خاصة",
+    "lien": null,
+    "etat": "ليد اليسرى مفقودة، المعدن شديد التلف",
+    "note": "(من كتاب البرونز في اليمن القديم للدكتوره عزة عقيل)",
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p025_img003.png"
+    ]
+  }
+]

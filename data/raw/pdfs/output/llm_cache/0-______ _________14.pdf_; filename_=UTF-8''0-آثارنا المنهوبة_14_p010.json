@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "008",
+    "type": "تمثال",
+    "description_texte_long": "تمثال لحيوان العول، واضح الشكل، القرون تلتفان إلى خلف الرأس، والأذنان واضحتان.",
+    "materiel": "رمرم",
+    "periode": "500 ق.م",
+    "dimensions": "6 سم",
+    "nom_musee_auction": "Barakat",
+    "lien": null,
+    "etat": null,
+    "note": "Sabean Statue of Two Conjoined Rams, 500 BCE | Barakat Gallery",
+    "images_associees": [
+      "0-آثارنا المنهوبة_14_p010_img003.png"
+    ]
+  }
+]

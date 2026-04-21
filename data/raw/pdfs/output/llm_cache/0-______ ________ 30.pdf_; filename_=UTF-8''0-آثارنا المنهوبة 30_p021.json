@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "20",
+    "type": "تمثال حيواني",
+    "description_texte_long": null,
+    "materiel": "برونز",
+    "periode": "القرن الخامس ق.م",
+    "dimensions": "االرتفاع12.8 سم ، العرض3.8 سم، العمق7.4 سم/ابعاد القاعدة : العرض3.3 سم، العمق5.8 سم",
+    "nom_musee_auction": "Metropolitan Museum",
+    "lien": "https://www.metmuseum.org/art/collection/search/324255",
+    "etat": "جيدة",
+    "note": "يوضح الموقع بان القطعة: هدية من أليستير برادلي مارتن1953",
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p021_img001.png"
+    ]
+  }
+]

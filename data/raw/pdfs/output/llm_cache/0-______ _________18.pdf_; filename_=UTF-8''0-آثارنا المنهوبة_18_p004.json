@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "تمثال صغير لحيوان أبو الهول",
+    "description_texte_long": "تمثال صغير لحيوان أبو الهول، من الحجر الجيري، برأس آدمي وجسد حيوان، يعلو الرأس ما يشبه لطائر، والتمثال يقف على قاعدة مستطيلة الشكل من نفس حجر التمثال.",
+    "materiel": "الحجر الجيري",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "المعروضة للبيع في سوق حزم الجوف",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_18_p004_img006.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "مبخرة اسطوانية الشكل",
+    "description_texte_long": "مبخرة اسطوانية الشكل من حجر المرمر (الرخام)، على عنقها من أسفل حزامين زخرفيين بارزين، والمبخرة تعاني من عدة كسور في الفوهة والقاعدة.",
+    "materiel": "حجر المرمر (الرخام)",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "المعروضة للبيع في سوق حزم الجوف",
+    "lien": null,
+    "etat": "تعاني من عدة كسور في الفوهة والقاعدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_18_p004_img005.png"
+    ]
+  }
+]

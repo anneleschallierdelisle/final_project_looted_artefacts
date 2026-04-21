@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1205-71",
+    "type": "كتاب عبري",
+    "description_texte_long": "كتاب عبري مطبوع بدون غالف عدد صفحاته 90 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 18.8 سم؛ العرض: 12.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مطبوع",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-70",
+    "type": "كتيب عبري",
+    "description_texte_long": "كتيب عبري مطبوع عدد صفحاته 242 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 12 سم؛ العرض: 8 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مطبوع",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-7",
+    "type": "مخطوط بالخط العبري",
+    "description_texte_long": "مخطوط بالخط العبري مجلد عدد أوراقه 80 ورقة وبالخلف ورقتان خاليتان من الكتابة وعدد صفحاته 160 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 24 سم؛ العرض: 16 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "أثرت فيه الرطوبة",
+    "note": "مجلد",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-68",
+    "type": "كتيب عبري",
+    "description_texte_long": "كتيب عبري مطبوع بدون غالف عدد صفحاته 60 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 16.5 سم؛ العرض: 11.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مطبوع",
+    "images_associees": []
+  }
+]

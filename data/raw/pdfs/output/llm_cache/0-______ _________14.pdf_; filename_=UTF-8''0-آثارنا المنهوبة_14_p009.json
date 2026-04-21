@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "007",
+    "type": "نقش",
+    "description_texte_long": "من نقش برونزي ذو حالة سيئة جداً, يحتوي على اربع اسطر اغلبه مطموس بسبب التلف الذي طرأ عليه.",
+    "materiel": "برونز",
+    "periode": "300 - 100م.ق",
+    "dimensions": "8.8 x 7 سم",
+    "nom_musee_auction": "Barakat",
+    "lien": "Barakat Gallery\nSabean Bronze Inscribed Plaque, 300 BCE to 100 CE | Barakat Gallery",
+    "etat": "حالة سيئة جداً",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_14_p009_img003.png"
+    ]
+  }
+]

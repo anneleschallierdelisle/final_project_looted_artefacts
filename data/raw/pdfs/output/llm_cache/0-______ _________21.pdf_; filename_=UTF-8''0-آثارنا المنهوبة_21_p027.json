@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "027",
+    "type": "أجزاء من لوحة جدارية",
+    "description_texte_long": "أجزاء من لوحة جدارية، نُحت عليها بشكل بارز شكل آدمي وآخر حيواني خرافي.",
+    "materiel": "حجر جيري",
+    "periode": "القرن الخامس السادس الميلادي",
+    "dimensions": "ارتفاع 33 سم",
+    "nom_musee_auction": "Ashmolean image library",
+    "lien": "https://images.ashmolean.org/asset/63386/",
+    "etat": "سيئة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_21_p027_img005.png"
+    ]
+  }
+]

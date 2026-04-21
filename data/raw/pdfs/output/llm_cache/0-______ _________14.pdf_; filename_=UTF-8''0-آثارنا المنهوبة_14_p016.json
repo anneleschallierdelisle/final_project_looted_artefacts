@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "014",
+    "type": "رأس ثور",
+    "description_texte_long": "رأس ثور من البرونز، على الرقبة نقش بخط المسند، ويعلو الرأس قرنان.",
+    "materiel": "برونز",
+    "periode": "30 BCE",
+    "dimensions": "32.75 سم; 30 × 130 م",
+    "nom_musee_auction": "Barakat",
+    "lien": "130 CE | Barakat - Bronze Head of a Bull with Inscription, 30 BCE Gallery 16",
+    "etat": null,
+    "note": "الوصف مستخرج من النص الظاهر في الصفحة.",
+    "images_associees": [
+      "0-آثارنا المنهوبة_14_p016_img003.png"
+    ]
+  }
+]

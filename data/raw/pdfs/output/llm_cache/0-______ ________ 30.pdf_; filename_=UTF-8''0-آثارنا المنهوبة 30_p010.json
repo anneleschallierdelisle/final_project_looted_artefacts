@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "9",
+    "type": "تمثال آدمي",
+    "description_texte_long": "وصف القطعة: .",
+    "materiel": "مرمر",
+    "periode": "أواخر الألف الأول ق.م",
+    "dimensions": "االرتفاع37.6 سم ، العرض11.5 سم ، العمق10.7 سم",
+    "nom_musee_auction": "Metropolitan Museum",
+    "lien": "https://www.metmuseum.org/art/collection/search/326695",
+    "etat": "جيدة",
+    "note": "يوضح الموقع ان القطعة : ،شراء بواسطة هدية السيد والسيدة ناثانييل سبير االبن1982",
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p010_img003.png"
+    ]
+  }
+]

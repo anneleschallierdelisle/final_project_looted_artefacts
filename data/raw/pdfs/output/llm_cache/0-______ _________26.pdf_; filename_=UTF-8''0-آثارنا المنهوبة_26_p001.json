@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1206-63",
+    "type": "كتاب",
+    "description_texte_long": "كتاب عبري مطبوع، بغالف متآكل ومهري، عدد الصفحات 428 صفحة، من سجل محتويات المتحف الوطني، مصدره قصر الإمام.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 25.5 سم؛ العرض: 17.5 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "سجل رقم 1، الطابق الأولى.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-62",
+    "type": "كتاب",
+    "description_texte_long": "كتاب عبري مطبوع، بغالف كرتوني أخضر اللون، عدد صفحاته 228 صفحة، من سجل محتويات المتحف الوطني، مصدره قصر الإمام.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 23 سم؛ العرض: 14.7 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "سجل رقم 1، الطابق الأول.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-61",
+    "type": "كتاب",
+    "description_texte_long": "كتاب عبري مطبوع، أوراقه من القطع الكبيرة، بغالف جلدي، عدد الصفحات 436 صفحة، من محتويات المتحف الوطني، مصدره قصر الإمام.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 37 سم؛ العرض: 26 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "سجل رقم 1، الطابق الأول.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-60",
+    "type": "كتاب",
+    "description_texte_long": "كتاب عبري مطبوع، الورق من القطع الكبيرة، بغالف جلدي متآكل، عدد صفحاته 490 صفحة، من محتويات المتحف الوطني، مصدره قصر الإمام.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 41.5 سم؛ العرض: 26.5 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "سجل رقم 1، الطابق الأول.",
+    "images_associees": []
+  }
+]

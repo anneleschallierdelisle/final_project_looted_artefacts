@@ -1,0 +1,67 @@
+[
+  {
+    "numero_inventaire": "1205-26",
+    "type": "كتاب عبري",
+    "description_texte_long": "كتاب عبري مطبوع بغالف كرتوني أ حمر اللون عدد صفحاته 392 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 18.5 سم؛ العرض: 12.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مطبوع",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "26-1205",
+    "type": "مخطوط عبري",
+    "description_texte_long": "مخطوط عبري مجلد عدد أوراقه 215 ورقة وصفحاته 430 صفحة، عدد الأسطر متفاوت، ورقتان خاليتان من الكتابة وتليها صفحات خطها يختلف عن المخطوط.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 17 سم؛ العرض: 10.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "أثرت فيه الأرضة والرطوبة",
+    "note": null,
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "24-1205",
+    "type": "كراسة مخطوط عبري",
+    "description_texte_long": "كراسة صغيرة عبارة عن مخطوط عبري بدون غالف محبوكة بخط اسود ومفككة في الوسط بخط عادي تتكون من 13 ورقة وصفحاته 26 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 18.4 سم؛ العرض: 12.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "بدون غالف ومفكك",
+    "note": "عدد الأسطر متفاوتة.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "23-1205",
+    "type": "كراسة مخطوط عبري",
+    "description_texte_long": "كراسة صغيرة لمخطوط عبري بدون غالف خطوط مزخرفة به رسوم لجداول في الصفحات الأخيرة، عدد أوراقه 32 ورقة وصفحاته 64.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 16.5 سم؛ العرض: 12 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "بدون غالف",
+    "note": "عدد الأسطر متفاوتة.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "22-1205",
+    "type": "كراسة مخطوط عبري",
+    "description_texte_long": "كراسة صغيرة لمخطوط عبري بدون غالف خطوط مزخرفة به رسوم لجداول في الصفحات الأخيرة، عدد أوراقه 32 ورقة وصفحاته 64.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 16.5 سم؛ العرض: 12 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "بدون غالف",
+    "note": "عدد الأسطر متفاوتة.",
+    "images_associees": []
+  }
+]

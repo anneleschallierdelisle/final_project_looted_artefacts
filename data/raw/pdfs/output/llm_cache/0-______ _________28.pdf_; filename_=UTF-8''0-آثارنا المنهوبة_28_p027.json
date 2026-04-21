@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "27",
+    "type": "لوحة",
+    "description_texte_long": "منحوتة مستطيلة الشكل من حجر المرمر، عليها نحت بارز لطائر كبير، واضح الملمح يأكل من عنقود عنب، ويعلوها نقش بخط المسند.",
+    "materiel": "مرمر",
+    "periode": null,
+    "dimensions": "السمك 4.6 سم؛ العرض 19.7 سم؛ الطول 32 سم",
+    "nom_musee_auction": "متحف اللوفر",
+    "lien": "https://collections.louvre.fr/en/ark:/53355/cl010166659",
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_28_p027_img005.png"
+    ]
+  }
+]

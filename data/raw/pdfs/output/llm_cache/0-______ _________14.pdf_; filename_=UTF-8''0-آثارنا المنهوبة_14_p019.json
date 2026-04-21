@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "تمثال",
+    "description_texte_long": "تمثال ربما لامرأة.",
+    "materiel": "مرمر",
+    "periode": "3 - 1 م",
+    "dimensions": "H. 20.5 مس",
+    "nom_musee_auction": "Monte Carlo",
+    "lien": "STATUETTE ACEPHALE VOTIVE | Hôtel Des Ventes De Monte Carlo (hvmc.com)",
+    "etat": null,
+    "note": "قِطعة مذكورة ضمن صفحة آثار منهوبة؛ العنوان الأصلي يظهر كـ 'ربما لامرأة' والوصْف غير مكتمل.",
+    "images_associees": [
+      "0-آثارنا المنهوبة_14_p019_img003.png"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "27",
+    "type": "طوق عنق",
+    "description_texte_long": "طوق عنق دائري الشكل، غير مكتمل من الذهب الخالص، ينتهي طرفية بعروة لم يتبقى منها غير جهة واحدة، وعلى واجهة الطوق كتابة منقوشة بخط المسند مكونة من سطر",
+    "materiel": "برونز",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": "غير مكتمل",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p014_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "28",
+    "type": "ختم",
+    "description_texte_long": "ختم من الطين عليه خطوط متقاطعة غير مفهومة",
+    "materiel": "طين",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p014_img004.png"
+    ]
+  }
+]

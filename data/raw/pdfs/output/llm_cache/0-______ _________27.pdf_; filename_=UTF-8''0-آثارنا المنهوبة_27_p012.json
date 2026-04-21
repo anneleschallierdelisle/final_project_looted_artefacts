@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "23",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال ﻻمرأة من النحاس واضح المﻼمح، في حالة حركة ترتدي مﻼبس فضفاضه عليها كسرات، الرأس واضح يغطيه عصبه يظهر من جانبيها خصﻼت الشعر، إحدى يديها ممدودة إلى الأمام والأخرى على جانبها، يزين الصدر تفاصيل الثوب وعلى كتفها كتابة بالخط المسند محفورة مكونة من أربع سطور.",
+    "materiel": "برونز",
+    "periode": "ما قبل اﻹسﻼم",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن اﻹسﻼمي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p012_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "24",
+    "type": "نقش",
+    "description_texte_long": "لوح برونزي عليه نقش كتب بالخط المسند مكون من ثمانية أسطر عليه قواعد محفورة للتثبيت",
+    "materiel": "برونز",
+    "periode": "ما قبل اﻹسﻼم",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن اﻹسﻼمي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p012_img004.png"
+    ]
+  }
+]

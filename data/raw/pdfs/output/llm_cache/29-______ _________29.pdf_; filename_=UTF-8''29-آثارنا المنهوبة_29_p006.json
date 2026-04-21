@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "4",
+    "type": "تمثال آدمي",
+    "description_texte_long": "تمثال آدمي",
+    "materiel": "مرمر",
+    "periode": "القرن الأول قبل الميالد -الأول بعد الميالد",
+    "dimensions": "االرتفاع28.9 سم",
+    "nom_musee_auction": "Gerhard Hirsch Nachfolger",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "لتمثال مرمم( ذكر الموقع بانه ضمن مجموعة فرنسية)",
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p006_img002.png"
+    ]
+  }
+]

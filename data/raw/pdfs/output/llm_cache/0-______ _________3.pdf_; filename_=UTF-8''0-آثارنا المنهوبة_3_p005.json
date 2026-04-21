@@ -1,0 +1,47 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "سوار يد – أثاا جنائزي",
+    "description_texte_long": "سوار مز الةذهب نصةف دائةري مبروم ينته بطرفيذ بكتة بارزة وسميكة بمجسمات سديز أر سيهما متجهاز للتلففة حالة تقابة واضحة.",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": "قطر 7 سم، سمك 5 مل تقريبا",
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مسروقة مز إحدى المقابر الملكية مز احدى مدز الجوف االثرية.",
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p005_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "حلق أذز- أثاا جنائزي",
+    "description_texte_long": "تا حلق ذأ ز مصنوعة مز الترز المحبب تنته كة واحدة بعمود مدبب منمحز ال قطعتاز متصلتاز بعضهما ببعض.",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مسروقة مز إحدى مقابر الجوف الملكية.",
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p005_img007.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "حلق أذز – أثاا جنائزي",
+    "description_texte_long": "حلق أذز مز الةذهب عدد ها تمو قطع ب شكل وتصاميم متتلفة مسروقة مز احدى مقابر الجوف الملكية.",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مسروقة مز احدى مقابر الجوف الملكية.",
+    "images_associees": [
+      "0-آثارنا المنهوبة_3_p005_img007.png"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "43",
+    "type": "أواني",
+    "description_texte_long": "كأس من البرونز أسطواني الشكل، له فوهة واسعة، يحيط بالبدن ثلاثة اسطر كتابية بالخط المسند، كما يلتصق به مجسم لتمثال آدمى ذو الخوذة يمسك بيديه بدن الاناء",
+    "materiel": "برونز",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p022_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "44",
+    "type": "شاهد قبر",
+    "description_texte_long": "شاهد قبر مسطح من الحجر الجيري نحت عليه وجه أدمى واضح المﻻمح، العينان لوزيتان محفورتان يتوسطهما بؤبؤ العين، والأنف بارز وحاد، الفم خط مستقيم بشفاه غليظة، الأذان شبه دائرية، كتب عليه سطر بخط المسند",
+    "materiel": "جيري",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p022_img004.png"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "4",
+    "type": "تمثال آدمي",
+    "description_texte_long": "وصف القطعة: .",
+    "materiel": "مرمر",
+    "periode": "القرن األول م",
+    "dimensions": "االرتفاع28.5 سم",
+    "nom_musee_auction": "Drouot",
+    "lien": "https://drouot.com/en/l/31417835-head-of-a-man-sabaean-3rd-century-bc-1st-century-ad-h-28-5",
+    "etat": "جيدة",
+    "note": "معروضة للبيع في شهر ديسمبر الحالي",
+    "images_associees": [
+      "0-آثارنا المنهوبة 30_p005_img002.png"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "Awd-1-432a",
+    "type": "سوار",
+    "description_texte_long": "سوار مجوف شبه دائري الشكل، ينتهي طرفيه بنقطة التقاء.",
+    "materiel": "برونز",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "متحف جبل العود – محافظة إب",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_9_p001_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "Awd-1-432b",
+    "type": "سوار",
+    "description_texte_long": "سوار مجوف غير منتظم الشكل، ينتهي عند طرفيه بنقطة التقاء.",
+    "materiel": "نز و بر",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "متحف جبل العود – محافظة إب",
+    "lien": null,
+    "etat": "عليها طبقة خفيفة من أ صد البرونز",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_9_p001_img004.png"
+    ]
+  }
+]

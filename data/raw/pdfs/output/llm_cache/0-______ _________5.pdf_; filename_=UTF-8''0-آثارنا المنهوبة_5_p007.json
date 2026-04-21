@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "مسرجة",
+    "description_texte_long": "مسرجة على شكل ورقة شجر مسننة الحواف، لها مقبض منحني ينتهي بجسم حيوان وعل ذو قرون كبيرة منحنية الى الخلف، ويدان ممدودتان الى أمام فصيرة، بها نقش بخط المسند من ثلاثة احرف غير واضحة، عرضت للبيع في دار بيير بيرج وشركاه.",
+    "materiel": "برونز",
+    "periode": "القرن الخامس الرابع ق م",
+    "dimensions": "طول 32,5 سم",
+    "nom_musee_auction": "دار بيير بيرج وشركاه",
+    "lien": "https://www.pba-auctions.com/lot/7974/1617595?refurl=Grande+lampe+%C3%A0+huile+dont+les+bords+sont+orn%C3%A9s+de+rinceaux+de+lierre+et+l%27arri%C3%A8re+d%27une+inscription+",
+    "etat": "مفقودة",
+    "note": "(صورة رقم13)",
+    "images_associees": [
+      "0-آثارنا المنهوبة_5_p007_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "شاهد قبر",
+    "description_texte_long": "شاهد قبر مستطيل الشكل، منحوت عن طريق التفريغ واضح الملامح العيون محزوزه و انف بارز، الفم شبه معين محزوز كتب عليه ثلاث احرف مسند يقرا ض ب ر، عرضت للبيع في دار بيير بيرج وشركاه.",
+    "materiel": "حجر جيري",
+    "periode": "اواخر الالف الاول ق م",
+    "dimensions": "طول 45,5 سم",
+    "nom_musee_auction": "دار بيير بيرج وشركاه",
+    "lien": "https://www.pba-auctions.com/lot/12242/2420201?npp=20&",
+    "etat": "مفقودة",
+    "note": "(صورة رقم14)",
+    "images_associees": [
+      "0-آثارنا المنهوبة_5_p007_img004.png"
+    ]
+  }
+]

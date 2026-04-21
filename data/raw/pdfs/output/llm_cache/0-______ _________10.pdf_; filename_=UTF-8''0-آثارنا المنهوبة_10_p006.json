@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "003",
+    "type": "تمثال",
+    "description_texte_long": "تمثال صغير ألسد من المرمر. رابض، على قاعدة مستطيلة نحتت مالمح وجهه بكل وضوح",
+    "materiel": "مرمر",
+    "periode": null,
+    "dimensions": ":االرتفاع9.5 × العمق12.5 سم",
+    "nom_musee_auction": "LAPADA",
+    "lien": "https://lapada.org/art/antiques/south-arabian-alabaster-lion-statuette/",
+    "etat": "جيدة",
+    "note": "اسم القطعة: تمثال أسد",
+    "images_associees": [
+      "0-آثارنا المنهوبة_10_p006_img005.png"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "رأس تمثال لرجل",
+    "description_texte_long": "شاهد قبر عبارة عن رأس آدمي لرجل واضح مالمح الوجه العينان لوزيتان والأنف بارز، كتب عليه في الرأس حروف بخط المسند، تعود إلى الدولة الحميرية، تم نشر صورته في صحيفة Times of the Israel وعرضها في متحف أراضي الكتاب المقدس الإسرائيلي في فلسطين المحتلة.",
+    "materiel": "حجر جيري",
+    "periode": "الدولة الحميرية",
+    "dimensions": null,
+    "nom_musee_auction": "متحف اراضي الكتاب المقدس الإسرائيلي في فلسطين المحتلة",
+    "lien": "https://www.timesofisrael.com/prophets-exhibit-jerusalem-in-vivid-made-yemen-ancient-kings-jewish-priests",
+    "etat": "مفقودة",
+    "note": "صورة رقم19",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p010_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "جزء من نقش بخط المسند",
+    "description_texte_long": "جزء من نقش علي ثلاثة اسطر بخط المسند، يعود إلى الدولة الحميرية، تم نشر صورته في صحيفة Times of the Israel وعرضها في متحف اراضي الكتاب المقدس الإسرائيلي في فلسطين المحتلة.",
+    "materiel": "حجر جيري",
+    "periode": "الدولة الحميرية",
+    "dimensions": null,
+    "nom_musee_auction": "متحف اراضي الكتاب المقدس الإسرائيلي في فلسطين المحتلة",
+    "lien": "https://www.timesofisrael.com/prophets-exhibit-jerusalem-in-vivid-made-yemen-ancient-kings-jewish-priests",
+    "etat": "مفقودة",
+    "note": "صورة رقم20",
+    "images_associees": [
+      "0-آثارنا المنهوبة_4_p010_img004.png"
+    ]
+  }
+]

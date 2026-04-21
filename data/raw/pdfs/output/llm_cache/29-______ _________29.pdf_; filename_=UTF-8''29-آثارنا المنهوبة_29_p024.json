@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "20",
+    "type": "تمثال آدمي",
+    "description_texte_long": null,
+    "materiel": "برونز",
+    "periode": "القرن السادس قبل الميالد",
+    "dimensions": "االرتفاع 5 سم",
+    "nom_musee_auction": "مجموعة سارنلي",
+    "lien": null,
+    "etat": "فقد الساعد األيمن",
+    "note": "(من كتاب البرونز في اليمن القديم للدكتوره عزة عقيل)",
+    "images_associees": [
+      "29-آثارنا المنهوبة_29_p024_img003.png"
+    ]
+  }
+]

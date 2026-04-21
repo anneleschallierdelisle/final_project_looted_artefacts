@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "003",
+    "type": "مذبح",
+    "description_texte_long": "مذبح من المرمر مربع الشكل عند أحد أضالعه كتلة بارزة عبارة عن رأس ثور واضح المالمح في منتصفه خط غائر محفور.",
+    "materiel": "مرمر",
+    "periode": "القرن 1 قبل الميالد",
+    "dimensions": "11 × بوصة10 × بوصة3/28 (بوصة26 × سم8.9cm × 13 سم)",
+    "nom_musee_auction": "Bonhams",
+    "lien": "Bonhams : A South Arabian alabaster libation table",
+    "etat": "ممتازة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_10_p096_img005.png"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1205-3",
+    "type": "مخطوط عبري",
+    "description_texte_long": "مخطوط بالعبرية متوسط الحجم، مجلد مفكك الأوراق نتيجة تمزق الخيط لكثرة الاستعمال، وعلى بعض أوراقه حاشيات بالخط العبري، وعدد أوراقه واحد وسبعين ورقة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 29 سم؛ العرض: 19.5 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "مفكك",
+    "note": "عدد اوراقه واحد وسبعين ورقة.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-29",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع مجلد بغالف بني اللون، عدد صفحاته 434 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 22 سم؛ العرض: 14.5 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مجلد بغالف بني اللون.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-28",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع مجلد، عدد صفحاته 258 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 19 سم؛ العرض: 15 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "مجلد.",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1205-27",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع مجلد صغير الحجم، عدد صفحاته 446 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 15 سم؛ العرض: 15.5 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "صغير الحجم.",
+    "images_associees": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": "41",
+    "type": "تمثال حيواني",
+    "description_texte_long": "مجسم لرأس حيوان ذكر الغنم واضح الملامح مصنوع من البرونز، العيون مرصعة بالأحجار الكريمة، قرون قصيرة، الاذان تتدلى الى جنب الرقبة، يغطي الجبهة الشعر الاجعد، عليه عروة في وسط الرأس للتعليق",
+    "materiel": "برونز",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p021_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": "42",
+    "type": "أواني",
+    "description_texte_long": "آنية من الفضة قمعية الشكل، لها بدن كمثري وعنق أسطواني، يربط البدن بالعنق بمقبض منحني، على البدن حروف بالخط المسند مكون من سطرين م ل ك و ق ه ت لl ع م ع ل ي",
+    "materiel": "فضة",
+    "periode": "ما قبل الإسلام",
+    "dimensions": null,
+    "nom_musee_auction": "متحف الفن الإسلامي",
+    "lien": null,
+    "etat": null,
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_27_p021_img004.png"
+    ]
+  }
+]

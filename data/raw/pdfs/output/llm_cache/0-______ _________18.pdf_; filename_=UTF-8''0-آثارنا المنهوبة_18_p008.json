@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "عملة يمنية قديمة",
+    "description_texte_long": "عملة يمنية قديمة من مادة المعدن، يتوسطها نحت بارز لوجه آدمي محاط بنحت بارز لحيوان الأفعى.",
+    "materiel": "المعدن",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "سوق حزم الجوف",
+    "lien": null,
+    "etat": "معروضة للبيع",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_18_p008_img005.png"
+    ]
+  }
+]

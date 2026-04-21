@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "068",
+    "type": "قرط",
+    "description_texte_long": "قرط ذهبي مكون من حلقة نصف دائرية، ينتهي أحد أطرافها بنتوءات كروية بارزة.",
+    "materiel": "ذهب",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "ebay",
+    "lien": "https://www.ebay.com",
+    "etat": "جيدة جدا",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_20_p068_img005.png"
+    ]
+  }
+]

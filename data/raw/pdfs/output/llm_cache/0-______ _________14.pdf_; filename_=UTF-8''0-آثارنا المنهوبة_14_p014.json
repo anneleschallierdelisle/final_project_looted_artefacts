@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "012",
+    "type": "عملة",
+    "description_texte_long": "عملة في احد وجهيها نحت لوجه رجل يحيط به زخرفة على شكل نقاط دائري وطغراء.",
+    "materiel": "فضة",
+    "periode": "200 CE",
+    "dimensions": "1 م",
+    "nom_musee_auction": "Barakat Gallery",
+    "lien": null,
+    "etat": null,
+    "note": "Himyarite Silver Coin, 1 CE",
+    "images_associees": [
+      "0-آثارنا المنهوبة_14_p014_img003.png"
+    ]
+  }
+]

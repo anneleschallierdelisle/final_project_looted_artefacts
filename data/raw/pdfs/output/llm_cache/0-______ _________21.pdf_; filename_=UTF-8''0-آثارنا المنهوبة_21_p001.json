@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "001",
+    "type": "تعليقة قالدة",
+    "description_texte_long": "تعليقة على شكل قالدة بشكل تمثال امرأة عارية مجنحة مصنوع من الذهب فريد من نوعه طغى عليه الأسلوب الفني من حيث التركيب المعقد",
+    "materiel": "ذهب",
+    "periode": "الفترة الحميرية",
+    "dimensions": null,
+    "nom_musee_auction": "مجموعة Werner Daum",
+    "lien": "https://heidicon.ub.uni-heidelberg.de/api/v1/objects/id/868256/format/xslt/detail",
+    "etat": "ممتازة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_21_p001_img005.png"
+    ]
+  }
+]

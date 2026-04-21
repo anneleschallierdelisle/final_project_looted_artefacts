@@ -1,0 +1,17 @@
+[
+  {
+    "numero_inventaire": "002",
+    "type": "شاهد قبر",
+    "description_texte_long": "شاهد قبر مستطيل الشكل يوجد اسف اللوح كتابة بخط المسند / ع ص ع ن / ذ ب غ ي ت / ع م ع ل",
+    "materiel": "رمرملا",
+    "periode": "القرن الأول",
+    "dimensions": "54 × 27 سم",
+    "nom_musee_auction": "Monte Carlo",
+    "lien": "hvmc.com",
+    "etat": null,
+    "note": "STÈLE IMIARITIQUE | Hôtel Des Ventes De Monte-Carlo",
+    "images_associees": [
+      "0-آثارنا المنهوبة_14_p020_img003.png"
+    ]
+  }
+]

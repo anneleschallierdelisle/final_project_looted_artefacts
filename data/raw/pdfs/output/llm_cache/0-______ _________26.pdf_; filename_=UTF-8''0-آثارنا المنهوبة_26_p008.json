@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1206-33",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف كرتوني اسود مغشا بقطعة جلدية بنية اللون عدد صفحاته 380 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 21.5 سم؛ العرض: 13 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-32",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بدون غالف عدد صفحاته 688 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 21.5 سم؛ العرض: 14 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-31",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع مغلف بغالف كرتوني مغشا بقماش احمر عدد صفحاته 344 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 20 سم؛ العرض: 13.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-30",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي بني عدد الصفحات 464 صفحة",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 21.5 سم؛ العرض: 13.5 سم",
+    "nom_musee_auction": "قصر الإمام",
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": []
+  }
+]

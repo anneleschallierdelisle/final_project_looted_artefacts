@@ -1,0 +1,54 @@
+[
+  {
+    "numero_inventaire": "1206-42",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي مهتري، أصلـه مفقود، عدد صفحاته 422 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 27 سم؛ العرض: 19 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-40",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي مهتري ومتآكل، عدد صفحاته 372 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "العرض: 12.5 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-39",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف جلدي بني عليه اثار ترميم يدوي (خياطة)، عدد الصفحات 346 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "الطول: 27 سم؛ العرض: 21.5 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام",
+    "images_associees": []
+  },
+  {
+    "numero_inventaire": "1206-38",
+    "type": "كتاب عبري مطبوع",
+    "description_texte_long": "كتاب عبري مطبوع بغالف كرتوني عليه اثار غشاء بقماش اخضر، عدد صفحاته 528 صفحة.",
+    "materiel": "ورق",
+    "periode": null,
+    "dimensions": "العرض: 15 سم",
+    "nom_musee_auction": "متحف تعز الوطني",
+    "lien": null,
+    "etat": "جيدة",
+    "note": "المصدر: قصر الإمام",
+    "images_associees": []
+  }
+]

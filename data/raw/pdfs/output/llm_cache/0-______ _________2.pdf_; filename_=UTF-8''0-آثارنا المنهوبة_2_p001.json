@@ -1,0 +1,47 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "مسرجة",
+    "description_texte_long": "مسرجة من البر ونز يغطي جسممها زامارف نباتيمة وهندسمية مسمننة الحمواف يعلوهما تمثما ن ألسمدين صغيرين , مسروقة من إحدى مدن الجوف",
+    "materiel": "برونز",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_2_p001_img003.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "تمثال لحيوان الأسد",
+    "description_texte_long": "حيمموان أسممد واالممف الملمممف فممي حالممة حركممة مسروق من إحدى ممدن الجموف , يعمود المب حقبمة ما قبل ا سلم",
+    "materiel": "برونز",
+    "periode": "ما قبل ا سلم",
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_2_p001_img004.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "مسرجة",
+    "description_texte_long": "مسرجة من البر ونز عليها طبقة ممن صمدأ البر ونمز ,عليهما زامارف تنتهمي ب مقمبف فمي الالمف المب ا علمب بلمكل رأ س حيموان , مسمروقة ممن إحدى مدن الجوف , تعود الب حقبة ما قبل ا سلم",
+    "materiel": "برونز",
+    "periode": "ما قبل ا سلم",
+    "dimensions": null,
+    "nom_musee_auction": null,
+    "lien": null,
+    "etat": "جيدة",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_2_p001_img005.png"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "numero_inventaire": null,
+    "type": "قاعدة إناء",
+    "description_texte_long": "قاعدة إناء اسطوانية الشكل من مادة البرونز، يتوسطها حزام مستدير بارز، والقاعدة من أسفل مخروطية الشكل أما من أعلى فهي مستديرة.",
+    "materiel": "البرونز",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "سوق حزم الجوف",
+    "lien": null,
+    "etat": "معروض للبيع",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_18_p007_img005.png"
+    ]
+  },
+  {
+    "numero_inventaire": null,
+    "type": "حبة خرز",
+    "description_texte_long": "حبة خرز من الحجر الكريم، كروية الشكل، بألوان برتقالية وكبدي، يتوسطها ثقب نافذ والذي كانت من خالله تعلق ضمن حبات العقد.",
+    "materiel": "الحجر الكريم",
+    "periode": null,
+    "dimensions": null,
+    "nom_musee_auction": "سوق حزم الجوف",
+    "lien": null,
+    "etat": "معروض للبيع",
+    "note": null,
+    "images_associees": [
+      "0-آثارنا المنهوبة_18_p007_img006.png"
+    ]
+  }
+]
