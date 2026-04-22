@@ -31,6 +31,7 @@ dependencies = [
     "pymupdf>=1.27.2.2",
     "pymupdf-layout>=1.27.2.2",
     "pypdf>=6.9.2",
+    "pysankey>=0.0.1",
     "pyyaml>=6.0.3",
     "requests>=2.33.1",
     "sacremoses>=0.1.1",
