@@ -1,0 +1,11 @@
+sending_country,count(*),avg_duration
+Netherlands,2,96
+Sweden,2,78
+Italy,1,68
+Germany,2,39
+USA,74,24
+Belgium,2,18
+Thailand,1,18
+Australia,3,10
+UK,2,6
+France,1,0

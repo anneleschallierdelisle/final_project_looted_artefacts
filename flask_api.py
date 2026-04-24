@@ -145,7 +145,7 @@ def get_one_unesco_country(states_name_en):
         return jsonify({"error": "Failed to connect to database."}), 500
 
     query = """
-        SELECT states_name_en, no_danger, yes_danger, percent_danger, `rank`
+        SELECT states_name_en, no_danger, yes_danger, percent_danger
         FROM unesco_sites_in_danger
         WHERE states_name_en = %s
     """
