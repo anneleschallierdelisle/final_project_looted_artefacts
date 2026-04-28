@@ -19,8 +19,13 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_CSV = BASE_DIR / "data" / "raw" / "weblink_text.csv" # output from data cleaning notebook
-OUTPUT_CSV = BASE_DIR / "data" / "raw" / "artefacts_with_web.csv"
+# dry run testing
+DRY_RUN = True
+MAX_PAGES_PER_DRY_RUN = 1
+OUTPUT_CSV = BASE_DIR / "data" / "raw" / "dry_run_wartefacts_with_web.csv"
+
+INPUT_CSV = BASE_DIR / "data" / "raw" / "web_links.csv" # output from data cleaning notebook
+#OUTPUT_CSV = BASE_DIR / "data" / "raw" / "artefacts_with_web.csv"
 
 # Delimiter csv
 INPUT_SEP = ";"
@@ -295,7 +300,7 @@ def scrape_text(url):
 
 
 # Global pipeline
-def run(input_csv, output_csv, sep):
+def run(input_csv, output_csv, sep, dry_run=False):
     """
     full pipeline :
     - load csv
@@ -308,20 +313,21 @@ def run(input_csv, output_csv, sep):
     if "link" not in df.columns:
         raise ValueError("Column link missing.")
 
-    # monitor progress
-    df["text_for_matching_web"] = df["link"].progress_apply(scrape_text)
+    if dry_run:
+        df = df.head(5)   
+        print(f"[DRY RUN] Scraping only {len(df)} pages")
+    
+    else:
+        df["text_for_matching_web"] = df["link"].progress_apply(scrape_text)
+        df["web_text_len"] = df["text_for_matching_web"].str.len()
 
-    # text length
-    df["web_text_len"] = df["text_for_matching_web"].str.len()
-
-    # sauvegarde
     df.to_csv(output_csv, index=False, encoding="utf-8-sig")
     print(f"\nSaved : {output_csv}")
 
 # note:\n for new line
 
 # Command line interface (CLI)
-#python ART_DEALERS_EXTRACTION_TEXT.py 
+#python art_dealers_text_extraction.py 
 
 def main():
     parser = argparse.ArgumentParser(description="Web scraping text artefacts")
@@ -331,7 +337,7 @@ def main():
 
     args = parser.parse_args()
 
-    run(args.input, args.output, args.sep)
+    run(args.input, args.output, args.sep, dry_run=DRY_RUN)
 
 
 if __name__ == "__main__":

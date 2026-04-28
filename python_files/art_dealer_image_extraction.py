@@ -21,9 +21,16 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_PATH = BASE_DIR / "data" / "raw" / "weblink_text.csv" # output from data cleaning notebook
-OUTPUT_DIR = BASE_DIR / "figures" / "web_photos"
-OUTPUT_CSV = BASE_DIR / "data" / "raw" / "web_photos_manifest.csv"
+# dry run testing
+DRY_RUN = True
+MAX_PAGES_PER_DRY_RUN = 1
+OUTPUT_DIR = BASE_DIR / "figures" / "dry_run_web_photos"
+OUTPUT_CSV = BASE_DIR / "data" / "raw" / "dry_run_web_photos_manifest.csv"
+
+
+INPUT_PATH = BASE_DIR / "data" / "raw" / "web_links.csv" # output from data cleaning notebook
+#OUTPUT_DIR = BASE_DIR / "figures" / "web_photos"
+#OUTPUT_CSV = BASE_DIR / "data" / "raw" / "web_photos_manifest.csv"
 
 # Delimiter csv
 INPUT_SEP = ";"
@@ -469,6 +476,12 @@ def main():
     ].copy()
 
     print(f"Pages to process: {len(work_df)}")
+
+    if DRY_RUN is True:
+        work_df = work_df.head(MAX_PAGES_PER_DRY_RUN)
+        print("[DRY RUN] Urls processed:")
+        print(work_df.to_string(index=False))
+        return
 
     all_rows = []
 
