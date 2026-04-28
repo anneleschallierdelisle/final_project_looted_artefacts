@@ -65,7 +65,7 @@ def home():
         <p>offset: starting point in the dataset</p>
         <li>/yemeni_looted_artefacts?limit=10&offset=0</li>
         
-        <h2 style="color:#825000">Filtrering - see examples below</h2>
+        <h2 style="color:#777777"">Filtering - see examples below</h2>
         <ul>
           <li>/yemeni_looted_artefacts?limit=10&offset=0</li>
           <li>/yemeni_looted_artefacts/0-25_p036_bea25d9f</li>

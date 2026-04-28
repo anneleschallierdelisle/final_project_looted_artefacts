@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20261.26.0410.0924                               -->
+<workbook original-version='18.1' source-build='2026.1.1 (20261.26.0410.0924)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='looted_artifacts_final (artifacts_dataset)' inline='true' name='federated.0xo6p0i1wjgjog1g1w3970a21ovw' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='BigQuery' name='bigquery.03gqko50bixkgu1bv515t0qr3cdt'>
+            <connection CATALOG='project-bdf0bfdc-ba62-4020-ae1' EXECCATALOG='project-bdf0bfdc-ba62-4020-ae1' authentication='oauth' class='bigquery' connection-dialect='google-sql' project='My First Project' schema='artifacts_dataset' server-oauth='' username='anne.leschallier@gmail.com' />
+          </named-connection>
+        </named-connections>
+        <relation connection='bigquery.03gqko50bixkgu1bv515t0qr3cdt' name='looted_artifacts_final' table='[project-bdf0bfdc-ba62-4020-ae1.artifacts_dataset].[looted_artifacts_final]' type='table' />
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>artifact_id</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[artifact_id]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>artifact_id</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>type</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[type]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>type</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>detail</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[detail]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>detail</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>material</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[material]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>material</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>iconography</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[iconography]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>iconography</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>period_general</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[period_general]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>period_general</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>period_precise</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[period_precise]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>period_precise</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pdf_name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[pdf_name]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>pdf_name</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>page_num</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[page_num]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>page_num</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pdf_upgrd_description</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[pdf_upgrd_description]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>pdf_upgrd_description</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>wb_txt_lg</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[wb_txt_lg]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>wb_txt_lg</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>link</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[link]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>link</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>main_website</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[main_website]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>main_website</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>article_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[article_id]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>article_id</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>score_txt</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[score_txt]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>score_txt</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>score_img</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[score_img]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>score_img</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>final_score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[final_score]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>final_score</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>score_type</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[score_type]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>score_type</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>normalized_domain</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[normalized_domain]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>normalized_domain</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>city</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[city]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>city</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>country</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>source_classification</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[source_classification]</local-name>
+            <parent-name>[looted_artifacts_final]</parent-name>
+            <remote-alias>source_classification</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='looted_artifacts_final' datatype='table' name='[__tableau_internal_object_id__].[looted_artifacts_final_33B80F66485B48499077D1CABA50403A]' role='measure' type='quantitative' />
+      <column caption='Article Id' datatype='integer' name='[article_id]' role='dimension' type='ordinal' />
+      <column caption='Artifact Id' datatype='string' name='[artifact_id]' role='dimension' type='nominal' />
+      <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Detail' datatype='string' name='[detail]' role='dimension' type='nominal' />
+      <column caption='Final Score' datatype='real' name='[final_score]' role='measure' type='quantitative' />
+      <column caption='Iconography' datatype='string' name='[iconography]' role='dimension' type='nominal' />
+      <column caption='Link' datatype='string' name='[link]' role='dimension' type='nominal' />
+      <column caption='Main Website' datatype='string' name='[main_website]' role='dimension' type='nominal' />
+      <column caption='Material' datatype='string' name='[material]' role='dimension' type='nominal' />
+      <column caption='Normalized Domain' datatype='string' name='[normalized_domain]' role='dimension' type='nominal' />
+      <column caption='Page Num' datatype='integer' name='[page_num]' role='dimension' type='ordinal' />
+      <column caption='Pdf Name' datatype='string' name='[pdf_name]' role='dimension' type='nominal' />
+      <column caption='Pdf Upgrd Description' datatype='string' name='[pdf_upgrd_description]' role='dimension' type='nominal' />
+      <column caption='Period General' datatype='string' name='[period_general]' role='dimension' type='nominal' />
+      <column caption='Period Precise' datatype='string' name='[period_precise]' role='dimension' type='nominal' />
+      <column caption='Score Img' datatype='real' name='[score_img]' role='measure' type='quantitative' />
+      <column caption='Score Txt' datatype='real' name='[score_txt]' role='measure' type='quantitative' />
+      <column caption='Score Type' datatype='string' name='[score_type]' role='dimension' type='nominal' />
+      <column caption='Source Classification' datatype='string' name='[source_classification]' role='dimension' type='nominal' />
+      <column caption='Type' datatype='string' name='[type]' role='dimension' type='nominal' />
+      <column caption='Wb Txt Lg' datatype='string' name='[wb_txt_lg]' role='dimension' type='nominal' />
+      <drill-paths>
+        <drill-path name='country, city'>
+          <field>[country]</field>
+          <field>[city]</field>
+        </drill-path>
+      </drill-paths>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;FR&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <object-graph>
+        <objects>
+          <object caption='looted_artifacts_final' id='looted_artifacts_final_33B80F66485B48499077D1CABA50403A'>
+            <properties context=''>
+              <relation connection='bigquery.03gqko50bixkgu1bv515t0qr3cdt' name='looted_artifacts_final' table='[project-bdf0bfdc-ba62-4020-ae1.artifacts_dataset].[looted_artifacts_final]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Feuille 1'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{C18E8707-6468-42BD-83E7-0DB4B4162667}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Feuille 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='240'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='48'>
+            <card type='columns' />
+          </strip>
+          <strip size='48'>
+            <card type='rows' />
+          </strip>
+          <strip size='46'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{498476D1-5D16-44C6-A96E-A296E5EC5783}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Feuille 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABYlAAAWJQFJUiTw
+      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
+      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
+      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
+      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
+      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
+      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
+      fBUOM1sAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
