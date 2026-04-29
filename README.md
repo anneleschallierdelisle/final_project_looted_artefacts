@@ -134,10 +134,9 @@ Bridging this gap is key to building more inclusive and globally relevant data s
 
 ## Project Structure
 ```
-├── config.yaml                # Project configuration settings
-├── main.py                    # Main script to run project workflows
-├── pyproject.toml             # Project dependencies and configuration
-├── uv.lock                    # Dependency lock file
+├── config.yaml                # Project configuration settings                  
+├── pyproject.toml              
+├── uv.lock                     
 ├── README.md                  # Project documentation
 
 ├── data/
