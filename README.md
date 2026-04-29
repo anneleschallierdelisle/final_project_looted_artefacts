@@ -6,9 +6,10 @@ This project explores how data science and AI can support the identification and
 
 It focuses on building a reproducible pipeline to:
 - extract data (text and images) from heterogeneous sources (PDF catalogues and web platforms)
-- structure and store this data
+- structure, store and expose this data
 - compare artefacts using embedding techniques
 - detect potential matches between catalogued artefacts and objects found online
+- identify looted artefacts profiles and trajectories
 
 ---
 
@@ -16,11 +17,12 @@ It focuses on building a reproducible pipeline to:
 
 Since 1994, the Yemeni National Authority for Antiquities and Museums have been documenting looted artefacts through catalogues. 
 With the ongoing conflict, the destruction of heritage sites and the illicit trafficking of artefacts have intensified.
+As a result, Yemen is at the second position of countries with the highest number (% and volume) of UNESCO World Heritage Sites in danger.
 
 This project aims to contribute to ongoing efforts in:
 - archaeological research
 - cultural heritage protection
-- combating illicit art trafficking
+- fighting illicit art trafficking
 
 ---
 
@@ -33,7 +35,7 @@ The project is based on a full data pipeline:
    - Creation of structured "artefact chunks"
 
 2. **Web Scraping**
-   - Collection of data from auction websites and blogs
+   - Collection of data from art dealers and commercial platforms
    - Extraction of text and images
 
 3. **Data Wrangling**
@@ -43,14 +45,16 @@ The project is based on a full data pipeline:
 
 4. **Embedding / Vectorization**
    - Transformation of text and images into high-dimensional vectors
-   - Use of embeddings to capture semantic meaning
+   - Use of embeddings to capture semantic meaningand images similarity
+     (SentenceTransformers MINI LM and CLIP for images)
 
-5. **Storage**
+5. **Storage and Access**
    - SQL database (MySQL → migrated to Cloud SQL)
+   - API for querying and tracking artefacts
    - Vector database (Chroma) for similarity search
 
 6. **Similarity Analysis**
-   - Cosine distance to compare artefacts
+   - Cosine distance to compare artefacts vectors
    - Matching between catalogue data and online objects
 
 ---
@@ -71,6 +75,7 @@ The project is based on a full data pipeline:
 ### Databases
 - MySQL (relational database)
 - ChromaDB (vector database)
+- API Flask app
 
 ---
 
@@ -106,7 +111,6 @@ The project is based on a full data pipeline:
 - Improve webscraping extraction
 - Enrich dataset with additional image sources
 - Improve matching accuracy
-- Deploy an API for querying and tracking artefacts
 
 ---
 
@@ -137,67 +141,24 @@ Bridging this gap is key to building more inclusive and globally relevant data s
 ├── README.md                  # Project documentation
 
 ├── data/
-│   ├── raw/                            
-│   │   ├── pdf_webscraping/
-│   │   │   ├── only_pdfs_with_pictures/
-│   │   │   └── pdf_files/
-│   │   │
-│   │   ├── pdf_image_extraction/
-│   │   │   └── output/
-│   │   │
-│   │   ├── web_image_extraction/
-│   │   │
-│   │   ├── vector_db/
-│   │   │
-│   │   ├── manual/                     
-│   │   │
-│   │   └── data_cleaning/              
+│   ├── raw/                                        
 │   │
-│   └── clean/                          
-│       ├── looted_artefacts.csv
-│       ├── art_dealers.csv
-│       ├── match_scoring.csv
-│       ├── pdf_images.csv
-│       ├── web_pages.csv
-│       └── web_photos.csv
+│   └── clean/ 
 
 ├── notebooks/                          
-│   ├── 01_pdf_webscraping.ipynb
-│   ├── 02_pdf_image_extraction.ipynb
-│   ├── 03_web_image_extraction.py
-│   ├── 04_vector_db.ipynb
-│   └── data_cleaning.ipynb
-│
-│   └── chroma_db/                      
-│       └── chroma.sqlite3
+│   ├── chroma_db/ 
+│                       
 
-├── functions/                          
-│   └── extract_web_images.py
-
+├── python_files/                          
+│ 
 ├── sql_scripts/                        
-│   ├── create_db.sql
-│   ├── load_data.sql
-│   ├── output_data.sql
-│   ├── initial_structure.sql
-│   │
-│   └── dump/                           
-│       ├── looted_artefacts.sql
-│       └── data_cleaning_updates.sql
+│   ├── dump/  
+                            
+├── figures/
 
-├── figures/                            
-│   ├── score_histograms.png
-│   ├── score_bplots.png
-│   ├── mapbocmap.png
-│   ├── hist.png
-│   ├── bplo.png
-│   └── Yemenite_Looted_Artefacts_ERM.png
+├── slides_report/ 
 
-├── slides/                             
-│   ├── Tableau_Dashboard.pdf
-│   ├── website_cities_metadata.xlsx
-│   └── prezi_link.txt
-
-└── src/
+├── src/
 ```
 ---
 
@@ -206,14 +167,41 @@ Bridging this gap is key to building more inclusive and globally relevant data s
 
 | Resource | Link |
 |--------|------|
-| Looted Artefacts Database | https://goam.gov.ye/Looted |
+| Yemeni Looted Artefacts Source | https://goam.gov.ye/Looted |
+| Mola Artefacts source | https://mola.omeka.net |
+| UNESCO World Cultural Heritage  | https://whc.unesco.org/en/list |
+| API Documentation (local, in progress)  | http://127.0.0.1:5000 |
 | Project Management (Trello) | https://trello.com/b/0ixAwwVG/final-project |
 | Project Presentation | https://prezi.com/view/xHVJrrxd9lEARBQZGtH7/ |
 | Roadmap | https://miro.com/app/board/uXjVGm7gUdQ=/ |
 | Data Visualization | https://public.tableau.com/views/final_project_17762709103470/Dashboard |
 
+## API Endpoints
+
+| Resource                         | Link / Endpoint                                                                 | Description                                                                                          |
+|----------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Yemeni Looted Artefacts          | `GET /yemeni_looted_artefacts`                                                   | List and detailed descriptions of Yemeni looted artefacts (pagination: `limit`, `offset`)           |
+| Single Artefact                  | `GET /yemeni_looted_artefacts/<artifact_id>`                                     | Get one artefact by ID                                                                                |
+| Artefacts Scoring                | `GET /artefacts_scoring`                                                         | List artefact scoring and compare descriptions/images between sources (pagination supported)        |
+| Search Looted Artefacts          | `GET /search_looted_artefacts`                                                   | Search Yemeni looted artefacts with filters (`country`, `normalized_domain`)                         |
+| UNESCO Sites in Danger by State  | `GET /unesco_sites_in_danger/<states_name_en>`                                   | Get information about UNESCO sites in a country, especially those in danger                         |
 
 ---
+
+## Data Restrictions & Compliance
+
+- **No personal data (GDPR)**  
+  This project does not process personal data. All information relates to cultural artefacts and public sources, and is therefore out of GDPR scope.
+
+- **Image usage restrictions**  
+  Images are not stored in the repository due to unclear ownership and copyright concerns. Only references (links/paths) are kept.
+
+
+## Disclaimer
+
+This project is for research and educational purposes only.  
+The results do not constitute legal evidence and should not be used for enforcement without expert validation.
+
 
 ## Installation
 
@@ -228,6 +216,9 @@ source ./venv/bin/activate
 # Install dependencies
 uv pip install -r requirements.txt
 
+# Run API locally
+run flask_api.py in your terminal
+API available at: http://127.0.0.1:5000
 
 ## Author
 
